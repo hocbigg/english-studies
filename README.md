@@ -9,143 +9,94 @@
 # Contents
 
 - [Summary](#summary)
-- [Community](#community)
 - [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-
 
 # Summary
-
-This program delivers a full, undergraduate-equivalent **English Studies** education using exclusively open courses and top-tier MOOCs. It offers a scaffolded pathway through:
-
-* Literary history & genres
-* Close reading & textual analysis
-* Linguistics & the structure of English
-* Rhetoric, argumentation, and advanced academic writing
-* Critical theory & interpretive methods
-* Research design, annotation, citation, and scholarly writing
-* Specialized tracks (e.g., Literature, Linguistics, Rhetoric & Writing, Digital Humanities)
-
-You’ll build the practical skills of an English major—interpretation, argumentation, stylistic control, linguistic analysis—while developing the intellectual habits of the humanities: slow reading, theoretical precision, and historical awareness.
+The curriculum is a complete education in English studies using online materials. It is designed to provide a well-rounded foundation equivalent to a 4-year undergraduate program, focusing on literature analysis, historical contexts, writing, linguistic principles, and critical theory. The philosophy emphasizes high-quality, accessible resources with a free-first approach for courses, while prioritizing authoritative textbooks (even if paid) when no suitable MOOC exists, followed by free/open alternatives. Intended outcomes include the ability to critically analyze texts, produce scholarly writing, understand literary evolution across cultures and eras, and apply knowledge in practical or creative projects.
 
 ## Organization
 
-* **Intro to English Studies** — Orientation, skill-building, diagnostic experience.
-* **Core** — Foundational courses mapping to the first 2–3 years of an English major.
-* **Advanced** — Final-year-style electives allowing concentration.
-* **Capstone Project** — A substantial, publishable research or creative-critical project.
+The curriculum is divided as follows:
 
-**Duration**. **1–2 years at ~20 hours/week**. Light courses may be paired; heavier ones run solo. Textbook modules are paced for sustainability.
+- *Intro English*: Orientation and fundamentals to test fit and build essential study habits like note-taking (e.g., Cornell method), spaced repetition (e.g., Anki app), and peer discussion via forums.
+- *Core English*: Roughly the first three years of undergraduate study; required foundational topics for the field, including surveys, theory, and key genres.
+- *Advanced English*: Final-year electives; choose one concentration to go deeper (e.g., British Literature, American Literature, Creative Writing, or Linguistics).
+- *Final Project*: A capstone project to consolidate, validate, and showcase knowledge; peer-review ready via platforms like Reddit's r/literature or academic forums.
 
----
+Encourage community engagement through course forums, study groups on Discord/Reddit (e.g., r/EnglishMajors), and open discussion spaces like Goodreads. Balance theory with practice through essays and projects. Learners may adapt based on background; math/method courses (none here) can parallel intros if needed. Avoid redundancy by selecting the strongest resource per topic.
 
-# **Curriculum**
+**Duration**.
+1–2 years at ~20 hours/week, sustainable with built-in flexibility. For 1 year: 4 phases (~3 months each). For 2 years: 8 semesters (~6 months each, with breaks). Sequence logically, with clear prerequisites.
 
----
+# Curriculum
 
-# **Intro to English Studies (Orientation Phase)**
+```
+Intro courses → Core surveys (British/American/World Lit) → Core theory/genres (Literary Theory, Shakespeare, Poetry) → Advanced specialization → Capstone.
 
-*Build foundational reading, writing, and academic skills; test commitment.*
+Parallel: Writing can be taken alongside any phase.
 
-| Courses                                                                                                                |         Duration         |    Effort    | Prerequisites | Notes                                               |
-| :--------------------------------------------------------------------------------------------------------------------- | :----------------------: | :----------: | :-----------: | :-------------------------------------------------- |
-| [MIT OCW: Reading Fiction](https://ocw.mit.edu/courses/21l-003-reading-fiction-fall-2003/)                             |        10–12 weeks       |  ~6 hrs/week |      none     | Close reading; narrative techniques.                |
-| [MIT OCW: Writing and Reading the Essay](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2006/) |        10–12 weeks       |  ~6 hrs/week |      none     | Essay craft and analysis; excellent writing primer. |
-| [Coursera: Academic Writing (UC Irvine)](https://www.coursera.org/specializations/academic-english)                    | 4 courses (~12–14 weeks) | 4–6 hrs/week |      none     | Structure, argument, research basics. (Free audit)  |
+```
 
-**Outcome:** Confident close-reader; academic writing competence; familiarity with literary terminology.
+## Intro English
+Focus on orientation to literature and building writing habits. Test fit with broad reading and basic analysis.
 
----
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+[Reading Fiction](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2018/) (MIT OCW) | Self-paced (12 weeks suggested) | 6–8 hours/week | None | Key topics: Narrative structure, character development, themes in fiction; assessments: Reading responses, essays; high-quality lectures and assignments; encourage forums for discussion.
+[Start Writing Fiction](https://www.open.edu/openlearn/history-the-arts/creative-writing/start-writing-fiction/content-section-0) (Open University) | 8 weeks | 3–5 hours/week | None | Key topics: Character creation, plotting, descriptive writing; assessments: Writing exercises, peer feedback; self-paced, builds study habits like daily journaling.
+[Reading Poetry](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2018/) (MIT OCW) | Self-paced (13 weeks suggested) | 5–7 hours/week | None | Key topics: Meter, form, imagery; assessments: Analysis papers, recitations; optional: Join poetry forums for spaced repetition reviews.
 
-# **Core English Studies (Foundations)**
+## Core English
+Foundational surveys and skills; equivalent to years 1-3. Emphasize balanced theory/practice with essays and projects.
 
-Roughly the equivalent of the first three undergraduate years.
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+[Ancient Masterpieces of World Literature](https://pll.harvard.edu/course/ancient-masterpieces-world-literature) (Harvard) | 6 weeks | 5–7 hours/week | Intro courses | Key topics: Epic traditions, cultural myths (e.g., Gilgamesh, Ramayana); assessments: Quizzes, discussion posts; self-paced, global access.
+British Literature Survey I (Medieval to 18th Century) | Self-paced (12–14 weeks) | 8–10 hours/week | Intro courses | No suitable MOOC; use textbook: [The Norton Anthology of English Literature, Vol. 1](https://wwnorton.com/books/9780393603125) (authoritative, paid; standard for surveys); free alternative: [British Literature I Anthology](https://open.umn.edu/opentextbooks/textbooks/658) (open textbook with readings and notes). Key topics: Beowulf, Chaucer, Milton; assessments: Self-designed essays, annotations; supplement with Yale's [Milton](https://oyc.yale.edu/english/engl-220) for depth.
+[American Literature Survey](https://oyc.yale.edu/english/engl-291) (Yale: The American Novel Since 1945) | Self-paced (26 sessions) | 7–9 hours/week | British Lit Survey | Key topics: Postwar fiction, themes of identity/race (e.g., Morrison, Pynchon); assessments: Essays, exams (provided); video lectures; for pre-1945, supplement with free anthology like [American Literature I](https://open.umn.edu/opentextbooks/textbooks/american-literature-i) if needed.
+[Introduction to Theory of Literature](https://oyc.yale.edu/english/engl-300) (Yale) | Self-paced (26 sessions) | 6–8 hours/week | Surveys | Key topics: Structuralism, psychoanalysis, feminism; assessments: Problem sets (readings), essays; video lectures; authoritative intro.
+[Shakespeare's Life and Work](https://pll.harvard.edu/course/shakespeares-life-and-work) (Harvard) | 4 weeks | 4–6 hours/week | Theory | Key topics: Biography, performance, key plays; assessments: Quizzes, projects (scene analysis); self-paced; or alternative: [Shakespeare's Hamlet](https://pll.harvard.edu/course/shakespeares-hamlet-ghost).
+[Modern Poetry](https://oyc.yale.edu/english/engl-310) (Yale) | Self-paced (25 sessions) | 6–8 hours/week | Poetry intro | Key topics: Eliot, Pound, Harlem Renaissance; assessments: Essays, close readings; video lectures.
 
-## **A. Literary History & Genre Foundations**
+## Advanced English
+Final-year electives. Define 4 specialization paths: British Literature, American Literature, Creative Writing, Linguistics. Recommend completing all courses in one chosen path for expertise (3–4 courses/path, ~3 months). Prereqs: Core. Select based on interest; e.g., Creative Writing for practice-oriented learners.
 
-| Courses                                                                                                                                | Duration |    Effort    | Prerequisites | Notes                                                    |
-| :------------------------------------------------------------------------------------------------------------------------------------- | :------: | :----------: | :-----------: | :------------------------------------------------------- |
-| [HarvardX: Masterpieces of World Literature](https://www.edx.org/learn/literature/harvard-university-masterpieces-of-world-literature) | 12 weeks | 5–6 hrs/week | Intro courses | Sweeping world canon; strong lectures.                   |
-| [MIT OCW: Shakespeare – The Later Plays](https://ocw.mit.edu/courses/21l-010-the-later-plays-of-shakespeare-fall-2015/)                | 12 weeks |  6 hrs/week  |      none     | Deep interpretive practice; rhetorical and poetic forms. |
-| [MIT OCW: American Literature 1865–Present](https://ocw.mit.edu/courses/21l-471-major-american-authors-fall-2008/)                     | 12 weeks |  6 hrs/week  |      none     | Canonical modern & contemporary U.S. writers.            |
+### Specialization 1: British Literature
+Deeper historical/genre focus.
 
-## **B. Literary Theory & Critical Methods**
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+British Literature Survey II (19th-20th Century) | Self-paced (12 weeks) | 8–10 hours/week | Core | No MOOC; textbook: [The Norton Anthology of English Literature, Vol. 2](https://wwnorton.com/books/9780393603132) (authoritative, paid); free: [British Literature II Anthology](https://open.umn.edu/opentextbooks/textbooks/659). Key topics: Romanticism, Victorian, Modernism; assessments: Essays.
+[How to Read a Novel](https://www.futurelearn.com/courses/how-to-read-a-novel) (FutureLearn/Edinburgh) | 4 weeks | 4 hours/week | Survey II | Key topics: Plot, character in British novels; assessments: Discussions, reviews.
+[Jane Austen: Myth, Reality and Global Celebrity](https://www.futurelearn.com/courses/jane-austen) (FutureLearn/Southampton) | 3 weeks | 3 hours/week | Above | Key topics: Austen's works, cultural impact; assessments: Quizzes, essays.
 
-| Courses                                                                                                                          |  Duration  |    Effort    | Prerequisites | Notes                                                   |
-| :------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :------------------------------------------------------ |
-| [MIT OCW: Introduction to Theory of Literature](https://ocw.mit.edu/courses/21l-015-introduction-to-literary-theory-fall-2015/)  |  14 weeks  | 6–8 hrs/week |      none     | Structuralism → postmodernism; essential theories.      |
-| [Coursera: Modern & Contemporary American Poetry (UPenn)](https://www.coursera.org/learn/modpo)                                  |  10 weeks  | 5–8 hrs/week |      none     | Avant-garde poetics; excellent for interpretive method. |
-| Textbook Module: *Norton Anthology of Theory & Criticism* (best), or free alternative: *Critical Theory: A Reader* (open access) | self-paced | 3–5 hrs/week | Intro courses | Addresses theoretical gaps.                             |
+### Specialization 2: American Literature
+Focus on diversity and modernism.
 
-## **C. Linguistics & History of English**
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+American Literature II (Post-1945) | Self-paced (12 weeks) | 8–10 hours/week | Core | Extend Yale course; textbook: [The Norton Anthology of American Literature, Vol. 2](https://wwnorton.com/books/9780393264487) (paid); free: [American Literature II](https://open.umn.edu/opentextbooks/textbooks/american-literature-ii). Key topics: Postmodernism, multiculturalism; assessments: Essays.
+[African American Literature](https://ocw.mit.edu/courses/21l-709-ethnic-literature-in-america-spring-2007/) (MIT OCW, similar) | Self-paced | 6–8 hours/week | Above | Adapt for focus; key topics: Baldwin, Hurston; assessments: Papers.
+[Contemporary American Poetry](https://www.coursera.org/learn/modern-american-poetry) (Coursera/Penn, audit free) | 4 weeks | 4–6 hours/week | Above | Key topics: Dickinson to now; assessments: Quizzes, peer essays.
 
-| Courses                                                                                                        |  Duration  |    Effort    | Prerequisites | Notes                              |
-| :------------------------------------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :--------------------------------- |
-| [MIT OCW: Linguistic Inquiry](https://ocw.mit.edu/courses/24-900-introduction-to-linguistic-theory-fall-2004/) |  12 weeks  |  8 hrs/week  |      none     | Syntax, phonology, morphology.     |
-| [Coursera: Miracles of Human Language (Leiden Univ.)](https://www.coursera.org/learn/human-language)           |   7 weeks  | 4–6 hrs/week |      none     | Typology; empirical grounding.     |
-| Textbook Module: *A History of the English Language* (Baugh & Cable)                                           | self-paced | 2–4 hrs/week |      none     | High-quality historical grounding. |
+### Specialization 3: Creative Writing
+Practice-oriented; build portfolio.
 
-## **D. Rhetoric, Composition, and Research Methods**
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+[Creative Writing: The Craft of Plot](https://www.coursera.org/learn/craft-of-plot) (Coursera/Wesleyan, audit free) | 4 weeks | 4–6 hours/week | Core writing | Key topics: Structure, tension; assessments: Writing assignments, peer review.
+[Creative Writing: The Craft of Character](https://www.coursera.org/learn/craft-of-character) (Coursera/Wesleyan) | 4 weeks | 4–6 hours/week | Plot | Key topics: Development, voice; assessments: Stories, feedback.
+[Creative Writing: The Craft of Style](https://www.coursera.org/learn/craft-of-style) (Coursera/Wesleyan) | 4 weeks | 4–6 hours/week | Character | Key topics: Language, revision; assessments: Portfolio pieces.
 
-| Courses                                                                                                                         |   Duration  |    Effort    | Prerequisites | Notes                                                       |
-| :------------------------------------------------------------------------------------------------------------------------------ | :---------: | :----------: | :-----------: | :---------------------------------------------------------- |
-| [MIT OCW: Writing and Experience](https://ocw.mit.edu/courses/21w-755-writing-and-experience-fall-2014/)                        | 10–12 weeks |  6 hrs/week  | Intro writing | Advanced narrative & reflective writing.                    |
-| [edX: English Grammar and Style (UQ)](https://www.edx.org/learn/english/the-university-of-queensland-english-grammar-and-style) |   8 weeks   | 3–4 hrs/week |      none     | High-quality style training.                                |
-| [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)                                         |   8 weeks   | 3–5 hrs/week |      none     | Teaches clarity, concision, evidence; universally valuable. |
-| Textbook Module: *MLA Handbook (latest edition)*                                                                                |      —      |       —      |      none     | For formal academic writing and citation.                   |
+### Specialization 4: Linguistics
+Language science intersection with literature.
 
-## **E. Research, Analysis & Project Skills**
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+[Introduction to Linguistics](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) (MIT OCW) | Self-paced (14 weeks) | 8–10 hours/week | Core | Key topics: Phonetics, syntax, semantics; assessments: Problem sets, exams.
+[Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) (Coursera/Leiden) | 6 weeks | 5–7 hours/week | Intro Ling | Key topics: Global languages, interviews; assessments: Quizzes, essays.
+[Digital Humanities in Practice](https://pll.harvard.edu/course/digital-humanities-practice-research-questions-results) (Harvard) | 10 weeks | 4–6 hours/week | Above | Key topics: Text analysis tools; assessments: Projects (e.g., corpus study).
 
-| Courses                                                                                                      |  Duration  |    Effort    |  Prerequisites  | Notes                                     |
-| :----------------------------------------------------------------------------------------------------------- | :--------: | :----------: | :-------------: | :---------------------------------------- |
-| [edX: Research Methods (Open University)](https://www.open.edu/openlearn)                                    | self-paced | 4–6 hrs/week |       none      | Introduces research design in humanities. |
-| MIT OCW: [Writing About Literature](https://ocw.mit.edu/courses/21w-747-writing-about-literature-fall-2005/) |  12 weeks  |  6 hrs/week  | Core literature | Analytical papers & interpretation.       |
-
----
-
-# **Advanced Tracks (Choose one track and complete all courses)**
-
-To simulate the “final year” depth of a major, pick **one specialization**.
-
----
-
-## **Track A: Literature & Cultural Analysis**
-
-| Courses                                                                                                                                                | Duration |    Effort    | Prerequisites | Notes                         |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :----------: | :-----------: | :---------------------------- |
-| [MIT OCW: Studies in Poetry](https://ocw.mit.edu/courses/21l-004-studies-in-poetry-fall-2014/)                                                         | 12 weeks | 6–7 hrs/week |    Core lit   | Intensive genre study.        |
-| [MIT OCW: Race and Identity in American Literature](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-fall-2014/)                      | 12 weeks |  6 hrs/week  |    Core lit   | Cultural studies.             |
-| [HarvardX: Ancient Masterpieces of World Literature](https://www.edx.org/learn/literature/harvard-university-ancient-masterpieces-of-world-literature) |  8 weeks | 4–6 hrs/week |    Core lit   | Sharpens comparative methods. |
-
----
-
-## **Track B: Linguistics & Language Studies**
-
-| Courses                                                                                                       |  Duration  |   Effort   |   Prerequisites   | Notes                                  |
-| :------------------------------------------------------------------------------------------------------------ | :--------: | :--------: | :---------------: | :------------------------------------- |
-| [MIT OCW: Phonology I](https://ocw.mit.edu/courses/24-961-introduction-to-phonology-fall-2004/)               |  14 weeks  | 8 hrs/week | Intro linguistics | Rigorous.                              |
-| [MIT OCW: Language and Mind](https://ocw.mit.edu/courses/24-900-introduction-to-linguistic-theory-fall-2004/) |  12 weeks  | 6 hrs/week |    Linguistics    | Cognitive aspects.                     |
-| Textbook Module: *Fromkin, Rodman & Hyams: An Introduction to Language* (top textbook)                        | self-paced | 3 hrs/week |        none       | Consolidates foundational linguistics. |
-
----
-
-## **Track C: Rhetoric, Writing & Media**
-
-| Courses                                                                                                                       |   Duration  |    Effort    |    Prerequisites    | Notes                     |
-| :---------------------------------------------------------------------------------------------------------------------------- | :---------: | :----------: | :-----------------: | :------------------------ |
-| [MIT OCW: Rhetoric (Classical to Modern)](https://ocw.mit.edu/courses/21w-747rhetoric-fall-2005/)                             | 12–14 weeks |  6 hrs/week  | Writing foundations | Argument, persuasion.     |
-| [Coursera: Writing for Social Media (Northwestern)](https://www.coursera.org/learn/content-strategy)                          |   6 weeks   | 4–6 hrs/week |         none        | Media rhetoric.           |
-| [MIT OCW: Introduction to Contemporary Media Studies](https://ocw.mit.edu/courses/21a-270-anthropology-of-media-spring-2014/) |   14 weeks  |  6 hrs/week  |         none        | Media systems, semiotics. |
-
----
-
-## **Track D: Digital Humanities & Computational Text Analysis**
-
-| Courses                                                                                                                              |  Duration  |    Effort    | Prerequisites | Notes                                  |
-| :----------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :------------------------------------- |
-| [edX: Humanities Data Analysis (HarvardX)](https://pll.harvard.edu/course/humanities-data-analytics)                                 | 8–10 weeks |  6 hrs/week  |      none     | Digital humanities methods.            |
-| [Coursera: Text Mining & Analytics (Illinois)](https://www.coursera.org/learn/text-mining)                                           |   8 weeks  | 6–8 hrs/week |      none     | Quantitative text analysis.            |
-| MIT OCW: [Digital Humanities – Documentary Working Group](https://ocw.mit.edu/courses/21h-000-how-to-study-a-documentary-fall-2006/) |  12 weeks  |  6 hrs/week  |      none     | Project-oriented humanities computing. |
-
----
+## Final Project
+A culminating project to apply and demonstrate knowledge/skills. Scoped for 4–8 weeks, ~10 hours/week, post-Advanced.
 
