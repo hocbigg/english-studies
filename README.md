@@ -1,18 +1,22 @@
 <div align="center" style="text-align: center">
-<img src="images/ossu-logo.webp" alt=""/>
+
 <h3>Hocbigg - English studies</h3>
 <p>
   Path to a free self-taught education in English studies!
 </p>
 </div>
 
+
 # Contents
 
 - [Summary](#summary)
+- [Communities](#communities)
 - [Curriculum](#curriculum)
+- [Code of conduct](#code-of-conduct)
 
 # Summary
-The curriculum is a complete education in English studies using online materials. It is designed to provide a well-rounded foundation equivalent to a 4-year undergraduate program, focusing on literature analysis, historical contexts, writing, linguistic principles, and critical theory. The philosophy emphasizes high-quality, accessible resources with a free-first approach for courses, while prioritizing authoritative textbooks (even if paid) when no suitable MOOC exists, followed by free/open alternatives. Intended outcomes include the ability to critically analyze texts, produce scholarly writing, understand literary evolution across cultures and eras, and apply knowledge in practical or creative projects.
+
+The curriculum is a complete education in English studies using online materials. It is designed to provide a well-rounded foundation equivalent to a 4-year undergraduate program, focusing on literature analysis, historical contexts, writing, linguistic principles, and critical theory.
 
 ## Organization
 
@@ -23,19 +27,53 @@ The curriculum is divided as follows:
 - *Advanced English*: Final-year electives; choose one concentration to go deeper (e.g., British Literature, American Literature, Creative Writing, or Linguistics).
 - *Final Project*: A capstone project to consolidate, validate, and showcase knowledge; peer-review ready via platforms like Reddit's r/literature or academic forums.
 
-Encourage community engagement through course forums, study groups on Discord/Reddit (e.g., r/EnglishMajors), and open discussion spaces like Goodreads. Balance theory with practice through essays and projects. Learners may adapt based on background; math/method courses (none here) can parallel intros if needed. Avoid redundancy by selecting the strongest resource per topic.
-
 **Duration**.
 1–2 years at ~20 hours/week, sustainable with built-in flexibility. For 1 year: 4 phases (~3 months each). For 2 years: 8 semesters (~6 months each, with breaks). Sequence logically, with clear prerequisites.
 
+Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
+they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
+
+**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
+
+- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
+- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
+- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
+
+**[How to contribute](CONTRIBUTING.md)**
+
+# Communities
+
+- Forums:
+  - [Literature Network Forums](https://www.online-literature.com/forums/)
+  - [Writing Forums](https://www.writingforums.com/)
+  - [OnlineBookClub.org Forums](https://forums.onlinebookclub.org/)
+  - [Booktalk.org](https://www.booktalk.org/)
+  - [English Literature Forum](https://englishliteratureforum.in/)
+- Subreddits:
+  - [r/literature](https://www.reddit.com/r/literature/)
+  - [r/linguistics](https://www.reddit.com/r/linguistics/)
+  - [r/englishmajors](https://www.reddit.com/r/englishmajors/)
+  - [r/AskLiteraryStudies](https://www.reddit.com/r/AskLiteraryStudies/)
+  - [r/asklinguistics](https://www.reddit.com/r/asklinguistics/)
+  - [r/books](https://www.reddit.com/r/books/)
+- Other:
+  - [Litodons (Mastodon group)](https://mastodon.social/explore?tag=Litodons)
+  - [C18 Mastodon (18th Century Studies)](https://c18.masto.host/)
+  - [zirk.us (Arts & Humanities Mastodon)](https://zirk.us/)
+- You can also interact through [GitHub issues](https://github.com/hocbigg/english-studies/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+
+
 # Curriculum
 
-```
-Intro courses → Core surveys (British/American/World Lit) → Core theory/genres (Literary Theory, Shakespeare, Poetry) → Advanced specialization → Capstone.
+- [Intro English](#intro-english)
+- [Core English](#core-english)
+- [Advanced English](#advanced-english)
+    - [British Literature](#british-literature)
+    - [American Literature](#american-literature)
+    - [Creative Writing](#creative-writing)
+    - [Linguistics](#linguistics)
+- [Final Project](#final-project)
 
-Parallel: Writing can be taken alongside any phase.
-
-```
 
 ## Intro English
 Focus on orientation to literature and building writing habits. Test fit with broad reading and basic analysis.
@@ -61,7 +99,7 @@ British Literature Survey I (Medieval to 18th Century) | Self-paced (12–14 wee
 ## Advanced English
 Final-year electives. Define 4 specialization paths: British Literature, American Literature, Creative Writing, Linguistics. Recommend completing all courses in one chosen path for expertise (3–4 courses/path, ~3 months). Prereqs: Core. Select based on interest; e.g., Creative Writing for practice-oriented learners.
 
-### Specialization 1: British Literature
+### British Literature
 Deeper historical/genre focus.
 
 Courses | Duration | Effort | Prerequisites | Notes
@@ -70,7 +108,7 @@ British Literature Survey II (19th-20th Century) | Self-paced (12 weeks) | 8–1
 [How to Read a Novel](https://www.futurelearn.com/courses/how-to-read-a-novel) (FutureLearn/Edinburgh) | 4 weeks | 4 hours/week | Survey II | Key topics: Plot, character in British novels; assessments: Discussions, reviews.
 [Jane Austen: Myth, Reality and Global Celebrity](https://www.futurelearn.com/courses/jane-austen) (FutureLearn/Southampton) | 3 weeks | 3 hours/week | Above | Key topics: Austen's works, cultural impact; assessments: Quizzes, essays.
 
-### Specialization 2: American Literature
+### American Literature
 Focus on diversity and modernism.
 
 Courses | Duration | Effort | Prerequisites | Notes
@@ -79,7 +117,7 @@ American Literature II (Post-1945) | Self-paced (12 weeks) | 8–10 hours/week |
 [African American Literature](https://ocw.mit.edu/courses/21l-709-ethnic-literature-in-america-spring-2007/) (MIT OCW, similar) | Self-paced | 6–8 hours/week | Above | Adapt for focus; key topics: Baldwin, Hurston; assessments: Papers.
 [Contemporary American Poetry](https://www.coursera.org/learn/modern-american-poetry) (Coursera/Penn, audit free) | 4 weeks | 4–6 hours/week | Above | Key topics: Dickinson to now; assessments: Quizzes, peer essays.
 
-### Specialization 3: Creative Writing
+### Creative Writing
 Practice-oriented; build portfolio.
 
 Courses | Duration | Effort | Prerequisites | Notes
@@ -88,7 +126,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Creative Writing: The Craft of Character](https://www.coursera.org/learn/craft-of-character) (Coursera/Wesleyan) | 4 weeks | 4–6 hours/week | Plot | Key topics: Development, voice; assessments: Stories, feedback.
 [Creative Writing: The Craft of Style](https://www.coursera.org/learn/craft-of-style) (Coursera/Wesleyan) | 4 weeks | 4–6 hours/week | Character | Key topics: Language, revision; assessments: Portfolio pieces.
 
-### Specialization 4: Linguistics
+### Linguistics
 Language science intersection with literature.
 
 Courses | Duration | Effort | Prerequisites | Notes
@@ -100,3 +138,12 @@ Courses | Duration | Effort | Prerequisites | Notes
 ## Final Project
 A culminating project to apply and demonstrate knowledge/skills. Scoped for 4–8 weeks, ~10 hours/week, post-Advanced.
 
+## Congratulations
+
+After completing the requirements of the curriculum above,
+you will have completed the equivalent of a full bachelor's degree in English Studies.
+Congratulations!
+
+# Code of conduct
+
+[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
