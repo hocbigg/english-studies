@@ -32,7 +32,7 @@ Courses | Duration | Effort
 [Plagues, Witches, and War: The Worlds of Historical Fiction](https://www.coursera.org/learn/historical-fiction) | 5 weeks | 4–6 hours/week
 [Literature of the English Country House](https://www.futurelearn.com/courses/literature-of-the-english-country-house) | 6 weeks | 3 hours/week
 
-# Online Learning - Great Courses
+## Online Learning - Great Courses
 
 
 Courses | Duration | Effort

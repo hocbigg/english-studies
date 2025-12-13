@@ -1,6 +1,6 @@
 # Other curricula
 
-This curriculum is one of a few efforts to inform learners how they can pursue [Field] independently. Below are a few other such efforts.
+This curriculum is one of a few efforts to inform learners how they can pursue English Studies independently. Below are a few other such efforts.
 
 - [OER Commons: English and Literature Resources](https://www.oercommons.org/hubs/english)
 - [Open Educational Resources for English (ASCCC OERI)](https://asccc-oeri.org/open-educational-resources-and-english/)
