@@ -22,26 +22,8 @@
 
 The curriculum is a complete education in English studies using online materials. It is designed to provide a well-rounded foundation equivalent to a 4-year undergraduate program, focusing on literature analysis, historical contexts, writing, linguistic principles, and critical theory.
 
-## Organization
-
-The curriculum is divided as follows:
-
-- *Intro English*: Orientation and fundamentals to test fit and build essential study habits like note-taking (e.g., Cornell method), spaced repetition (e.g., Anki app), and peer discussion via forums.
-- *Core English*: Roughly the first three years of undergraduate study; required foundational topics for the field, including surveys, theory, and key genres.
-- *Advanced English*: Final-year electives; choose one concentration to go deeper (e.g., British Literature, American Literature, Creative Writing, or Linguistics).
-- *Final Project*: A capstone project to consolidate, validate, and showcase knowledge; peer-review ready via platforms like Reddit's r/literature or academic forums.
-
-**Duration**.
-1–2 years at ~20 hours/week, sustainable with built-in flexibility. For 1 year: 4 phases (~3 months each). For 2 years: 8 semesters (~6 months each, with breaks). Sequence logically, with clear prerequisites.
-
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
-
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-
-- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
-- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
 
 **[How to contribute](/CONTRIBUTING.html)**
 
@@ -65,84 +47,142 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
   - [C18 Mastodon (18th Century Studies)](https://c18.masto.host/)
   - [zirk.us (Arts & Humanities Mastodon)](https://zirk.us/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/english-studies/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 
 # Curriculum
 
-- [Intro English](#intro-english)
-- [Core English](#core-english)
-- [Advanced English](#advanced-english)
-    - [British Literature](#british-literature)
-    - [American Literature](#american-literature)
-    - [Creative Writing](#creative-writing)
-    - [Linguistics](#linguistics)
-- [Final Project](#final-project)
+- [How to use this curriculum](#how-to-use-this-curriculum)
+    - [Core Sections](#core-sections)
+    - [Specialization Tracks](#specialization-tracks)
+- [I. Foundations of English Studies](#i-foundations-of-english-studies)
+    - [Language, Reading, and Writing Basics](#language-reading-and-writing-basics)
+- [II. Literary Forms & Close Reading](#ii-literary-forms--close-reading)
+    - [Fiction, Poetry, Drama](#fiction-poetry-drama)
+- [III. Literary History & Traditions](#iii-literary-history--traditions)
+    - [Global and Anglophone Surveys](#global-and-anglophone-surveys)
+- [IV. Literary Theory & Methods](#iv-literary-theory--methods)
+- [V. Advanced Tracks](#v-advanced-tracks)
+    - [A. British Literature](#a-british-literature)
+    - [B. American Literature](#b-american-literature)
+    - [C. Creative Writing](#c-creative-writing)
+    - [D. Linguistics & Language Studies](#d-linguistics--language-studies)
 
 
-## Intro English
-Focus on orientation to literature and building writing habits. Test fit with broad reading and basic analysis.
+## How to use this curriculum
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-[Reading Fiction](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/) (MIT OCW) | Self-paced (12 weeks suggested) | 6–8 hours/week | None | Key topics: Narrative structure, character development, themes in fiction; assessments: Reading responses, essays; high-quality lectures and assignments; encourage forums for discussion.
-[Start Writing Fiction](https://www.open.edu/openlearn/history-the-arts/creative-writing/start-writing-fiction/content-section-0) (Open University) | 8 weeks | 3–5 hours/week | None | Key topics: Character creation, plotting, descriptive writing; assessments: Writing exercises, peer feedback; self-paced, builds study habits like daily journaling.
-[Reading Poetry](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2018/) (MIT OCW) | Self-paced (13 weeks suggested) | 5–7 hours/week | None | Key topics: Meter, form, imagery; assessments: Analysis papers, recitations; optional: Join poetry forums for spaced repetition reviews.
+### Core Sections
 
-## Core English
-Foundational surveys and skills; equivalent to years 1-3. Emphasize balanced theory/practice with essays and projects.
+These four sections form the essential foundation. They give you the basic skills, historical context, and critical tools needed to understand literature and literary study seriously. Complete them in this exact order:
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-[Ancient Masterpieces of World Literature](https://pll.harvard.edu/course/ancient-masterpieces-world-literature) (Harvard) | 6 weeks | 5–7 hours/week | Intro courses | Key topics: Epic traditions, cultural myths (e.g., Gilgamesh, Ramayana); assessments: Quizzes, discussion posts; self-paced, global access.
-British Literature Survey I (Medieval to 18th Century) | Self-paced (12–14 weeks) | 8–10 hours/week | Intro courses | [British Literature I Anthology](https://open.umn.edu/opentextbooks/textbooks/658) (open textbook with readings and notes). Supplement with Yale's [Milton](https://oyc.yale.edu/english/engl-220) for depth.
-[American Literature Survey](https://oyc.yale.edu/english/engl-291) (Yale: The American Novel Since 1945) | Self-paced (26 sessions) | 7–9 hours/week | British Lit Survey | Key topics: Postwar fiction, themes of identity/race (e.g., Morrison, Pynchon); assessments: Essays, exams (provided); video lectures; for pre-1945, supplement with free anthology like [American Literature I](https://open.umn.edu/opentextbooks/textbooks/american-literature-i) if needed.
-[Introduction to Theory of Literature](https://oyc.yale.edu/english/engl-300) (Yale) | Self-paced (26 sessions) | 6–8 hours/week | Surveys | Key topics: Structuralism, psychoanalysis, feminism; assessments: Problem sets (readings), essays; video lectures; authoritative intro.
-[Shakespeare's Life and Work](https://www.edx.org/learn/shakespeare/harvard-university-shakespeare-s-life-and-work) (Harvard) | 4 weeks | 4–6 hours/week | Theory | Key topics: Biography, performance, key plays; assessments: Quizzes, projects (scene analysis); self-paced; or alternative: [Shakespeare's Hamlet](https://www.edx.org/learn/shakespeare/harvard-university-shakespeare-s-hamlet-the-ghost).
-[Modern Poetry](https://oyc.yale.edu/english/engl-310) (Yale) | Self-paced (25 sessions) | 6–8 hours/week | Poetry intro | Key topics: Eliot, Pound, Harlem Renaissance; assessments: Essays, close readings; video lectures.
+**I. Foundations of English Studies**: Start here. This section teaches you how to read academic texts efficiently and write clearly — skills you will use constantly in every later section.
 
-## Advanced English
+**II. Literary Forms & Close Reading**: Next, learn how to read and analyze the three major literary forms (fiction, poetry, drama) very closely. This is the most important practical skill in English Studies.
 
-Final-year electives. Define 4 specialization paths: British Literature, American Literature, Creative Writing, Linguistics. Recommend completing all courses in one chosen path for expertise (3–4 courses/path, ~3 months). Prereqs: Core. Select based on interest; e.g., Creative Writing for practice-oriented learners.
+**III. Literary History & Traditions**: After you can read texts carefully, this section gives you the big historical picture: how literature developed across time and major English-language traditions.
 
-### British Literature
-Deeper historical/genre focus.
+**IV. Literary Theory & Methods**: Finally, learn the main conceptual frameworks and interpretive tools that scholars use to analyze texts more deeply and systematically.
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-British Literature Survey II (19th-20th Century) | Self-paced (12 weeks) | 8–10 hours/week | Core | No MOOC; textbook: [The Norton Anthology of English Literature, Vol. 2](https://wwnorton.com/books/9780393603132) (authoritative, paid); free: [British Literature II Anthology](https://open.umn.edu/opentextbooks/textbooks/659). Key topics: Romanticism, Victorian, Modernism; assessments: Essays.
-[How to Read a Novel](https://www.futurelearn.com/courses/how-to-read-a-novel) (FutureLearn/Edinburgh) | 4 weeks | 4 hours/week | Survey II | Key topics: Plot, character in British novels; assessments: Discussions, reviews.
-[Jane Austen: Myth, Reality and Global Celebrity](https://www.futurelearn.com/courses/jane-austen) (FutureLearn/Southampton) | 3 weeks | 3 hours/week | Above | Key topics: Austen's works, cultural impact; assessments: Quizzes, essays.
+### Specialization Tracks
 
-### American Literature
-Focus on diversity and modernism.
+Section **V. Advanced Tracks** contains four different paths you can take **after** you have completed the Core:
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-American Literature II (Post-1945) | Self-paced (12 weeks) | 8–10 hours/week | Core | Extend Yale course; textbook: [The Norton Anthology of American Literature, Vol. 2](https://wwnorton.com/books/9780393264487) (paid); free: [American Literature II](https://open.umn.edu/opentextbooks/textbooks/american-literature-ii). Key topics: Postmodernism, multiculturalism; assessments: Essays.
-[Ethnic Literature in America](https://ocw.mit.edu/courses/21l-709-ethnic-literature-in-america-spring-2017/) (MIT OCW, similar) | Self-paced | 6–8 hours/week | Above | Adapt for focus; key topics: Baldwin, Hurston; assessments: Papers.
-[Contemporary American Poetry](https://www.coursera.org/learn/modern-american-poetry) (Coursera/Penn, audit free) | 4 weeks | 4–6 hours/week | Above | Key topics: Dickinson to now; assessments: Quizzes, peer essays.
+- A. British Literature
+- B. American Literature
+- C. Creative Writing
+- D. Linguistics & Language Studies
 
-### Creative Writing
-Practice-oriented; build portfolio.
+You do **not** need to do all of them. Most people choose **one** track that interests them most (or occasionally two). The rest can be left for later — or skipped entirely — depending on your goals.
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-[Creative Writing: The Craft of Plot](https://www.coursera.org/learn/craft-of-plot) (Coursera/Wesleyan, audit free) | 4 weeks | 4–6 hours/week | Core writing | Key topics: Structure, tension; assessments: Writing assignments, peer review.
-[Creative Writing: The Craft of Character](https://www.coursera.org/learn/craft-of-character) (Coursera/Wesleyan) | 4 weeks | 4–6 hours/week | Plot | Key topics: Development, voice; assessments: Stories, feedback.
-[Creative Writing: The Craft of Style](https://www.coursera.org/learn/craft-of-style) (Coursera/Wesleyan) | 4 weeks | 4–6 hours/week | Character | Key topics: Language, revision; assessments: Portfolio pieces.
+- Choose **British Literature** if you love classic novels, older poetry, Shakespeare, or the long tradition of writing from the British Isles.
+- Choose **American Literature** if you are especially interested in U.S. history, identity, race, ethnicity, or modern/postwar American fiction and poetry.
+- Choose **Creative Writing** if you want to start writing your own stories, poems, or novels and learn craft techniques.
+- Choose **Linguistics & Language Studies** if you are curious about how language itself works (sounds, grammar, meaning) or about digital/text-analysis approaches to literature.
 
-### Linguistics
-Language science intersection with literature.
+## I. Foundations of English Studies
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Linguistics](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) (MIT OCW) | Self-paced (14 weeks) | 8–10 hours/week | Core | Key topics: Phonetics, syntax, semantics; assessments: Problem sets, exams.
-[Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) (Coursera/Leiden) | 6 weeks | 5–7 hours/week | Intro Ling | Key topics: Global languages, interviews; assessments: Quizzes, essays.
-[Digital Humanities in Practice](https://pll.harvard.edu/course/digital-humanities-practice-research-questions-results) (Harvard) | 10 weeks | 4–6 hours/week | Above | Key topics: Text analysis tools; assessments: Projects (e.g., corpus study).
+*No prior knowledge assumed.*
 
-## Final Project
+### Language, Reading, and Writing Basics
 
-A culminating project to apply and demonstrate knowledge/skills. Scoped for 4–8 weeks, ~10 hours/week, post-Advanced.
+| Course | Notes |
+| --- | --- |
+| [Reading and Note-taking for Academic Study](https://www.open.edu/openlearn/education/reading-and-note-taking-academic-study/content-section-0) (Open University) | Academic reading strategies, annotation, summarization. |
+| [Purdue OWL: Academic Writing](https://owl.purdue.edu/owl/purdue_owl.html) | Core sections: sentence clarity, paragraph structure, argumentation. |
+| [*Introduction to Literature* (Open-access textbook)](https://open.umn.edu/opentextbooks/textbooks/literature-the-humanities-and-humanity) | Literary terms, genres, basic analysis; use as reference throughout curriculum. |
+
+## II. Literary Forms & Close Reading
+
+*Skill-building through genre.*
+
+### Fiction, Poetry, Drama
+
+| Course | Notes |
+| --- | --- |
+| [Reading Fiction](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/) (MIT OCW) | Narrative structure, character, theme. |
+| [Reading Poetry](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2018/) (MIT OCW) | Meter, form, figurative language. |
+| [Shakespeare’s Life and Work](https://www.edx.org/learn/shakespeare/harvard-university-shakespeare-s-life-and-work) (Harvard) | Drama, performance, textual variation. |
+
+## III. Literary History & Traditions
+
+*Chronological and cultural grounding.*
+
+### Global and Anglophone Surveys
+
+| Course | Notes |
+| --- | --- |
+| [World Literature: A Global Perspective](https://pll.harvard.edu/course/world-literature-global-perspective) (Harvard) | Canon, translation, comparative reading. |
+| [British Literature I: From the Middle Ages to Neoclassicism and the Eighteenth Century](https://open.umn.edu/opentextbooks/textbooks/british-literature-i-anthology-from-the-middle-ages-to-neoclassicism-and-the-eighteenth-century) (Open Textbook Library / University of North Georgia Press) | Use as open anthology (Medieval–18th c.). |
+| [British Literature II: Romantic Era to the Twentieth Century and Beyond](https://open.umn.edu/opentextbooks/textbooks/british-literature-ii-romantic-era-to-the-twentieth-century-and-beyond) (Open Textbook Library / University of North Georgia Press) | Use as open anthology (19th–20th c.). |
+| [American Literature I: An Anthology of Texts From Early America Through the Civil War](https://open.umn.edu/opentextbooks/textbooks/979) (Open Textbook Library) | Use as open anthology (Colonial–1865). |
+| [The American Novel Since 1945](https://oyc.yale.edu/english/engl-291) (Yale) | Postwar and contemporary fiction. |
+
+## IV. Literary Theory & Methods
+
+*Conceptual tools for interpretation.*
+
+| Course | Notes |
+| --- | --- |
+| [Introduction to Literary Theory](https://oyc.yale.edu/english/engl-300) (Yale) | Formalism, Marxism, feminism, psychoanalysis. |
+| [Modern Poetry](https://oyc.yale.edu/english/engl-310) (Yale) | Apply theory to 20th-century texts. |
+
+## V. Advanced Tracks
+
+*Choose one path; others optional.*
+
+### A. British Literature
+
+| Course | Notes |
+| --- | --- |
+| [How to Read a Novel](https://www.futurelearn.com/courses/how-to-read-a-novel) | Advanced narrative analysis. |
+| [Jane Austen: Myth, Reality and Global Celebrity](https://www.futurelearn.com/courses/jane-austen) | Author-centered cultural study. |
+
+### B. American Literature
+
+| Course | Notes |
+| --- | --- |
+| [Ethnic Literature in America](https://ocw.mit.edu/courses/21l-709-ethnic-literature-in-america-spring-2017/) | Race, ethnicity, canon revision. |
+| [Modern American Poetry](https://www.coursera.org/learn/modern-american-poetry) (audit) | Lyric traditions and innovation. |
+
+### C. Creative Writing
+
+| Course | Notes |
+| --- | --- |
+| [Start Writing Fiction](https://www.open.edu/openlearn/history-the-arts/creative-writing/start-writing-fiction/content-section-0) | Foundational practice. |
+| [Creative Writing: The Craft of Plot](https://www.coursera.org/learn/craft-of-plot) (Wesleyan/Coursera, audit) | Sequential. |
+| Creative Writing: Craft of Character | Sequential. |
+| Creative Writing: Craft of Style | Language and revision. |
+
+**Note**: For Creative Writing: Craft of Character and Craft of Style, they are part of the same Wesleyan specialization on Coursera: [**Creative Writing Specialization**](https://www.coursera.org/specializations/creative-writing).
+
+### D. Linguistics & Language Studies
+
+| Course | Notes |
+| --- | --- |
+| [Introduction to Linguistics](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) (MIT) | Phonetics to syntax. |
+| [Digital Humanities in Practice](https://pll.harvard.edu/course/digital-humanities-practice-research-questions-results) | Text analysis, corpus methods. |
 
 ## Congratulations
 
