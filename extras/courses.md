@@ -34,9 +34,16 @@ Courses | Duration | Effort
 
 ## Online Learning - Great Courses
 
-
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2 hours/week
 [Mindshift](https://www.coursera.org/learn/mindshift) | 4 weeks | 2 hours/week
 [Powersearching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) | 3 weeks | 4-6 hours/week
+
+## Other
+
+- [OER Commons: English and Literature Resources](https://www.oercommons.org/hubs/english)
+- [Open Educational Resources for English (ASCCC OERI)](https://asccc-oeri.org/open-educational-resources-and-english/)
+- [English Open Textbooks (GALILEO)](https://oer.galileo.usg.edu/english-textbooks/)
+- [Saylor Academy: English Literature Courses](https://www.saylor.org/english/)
+- [OpenLearn: Literature Courses](https://www.open.edu/openlearn/history-the-arts/literature)
