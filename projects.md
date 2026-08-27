@@ -1,105 +1,50 @@
 # Projects
 
-This page is a curated collection of well-written, step-by-step guides for learning English Studies through hands-on, project-based practice.
+A curated directory of actionable project walkthroughs, step-by-step methodological guides, and analytical workflows for English Studies.
 
-> *What I cannot create, I do not understand — Richard Feynman.*
+Learners can select a tangible project artifact to build—whether an archival transcription, a TEI digital edition, a corpus linguistic analysis, or a close-reading critical essay—and discover theoretical frameworks through hands-on practice.
 
-These projects are meant to support learning throughout the curriculum, not only at the end.  
-By building, writing, creating, or reconstructing real artifacts in the field, learners develop practical understanding alongside theoretical study.
+---
 
-## Tutorials
+## Textual, Rhetorical & Literary Criticism
 
-* [Novel](#write-your-own-novel)
-* [Short Story](#write-your-own-short-story)
-* [Poem](#compose-your-own-poem)
-* [Play](#write-your-own-play)
-* [Screenplay](#write-your-own-screenplay)
-* [Literary Essay](#write-your-own-literary-essay)
-* [Critical Review](#write-your-own-critical-review)
-* [Close Reading](#perform-your-own-close-reading)
-* [Theoretical Argument](#construct-your-own-theoretical-argument)
-* [Annotated Bibliography](#compile-your-own-annotated-bibliography)
-* [Memoir](#write-your-own-memoir)
-* [Personal Essay](#write-your-own-personal-essay)
-* [Experimental Text](#create-your-own-experimental-text)
-* [Literary Translation](#produce-your-own-literary-translation)
-* [Digital Edition](#build-your-own-digital-edition)
+- [How to Do a Close Reading — Harvard College Writing Center](https://writingcenter.fas.harvard.edu/pages/how-do-close-reading)
+- [Writing in Literature: Analysis, Interpretation, and Evidence — Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/index.html)
+- [Developing a Central Thesis & Counterargument — Harvard College Writing Center](https://writingcenter.fas.harvard.edu/strategies-essay-writing)
+- [Writing a Literature Review in the Humanities — UNC Writing Center](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/)
+- [Creating an Annotated Bibliography in MLA Format — Purdue OWL](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/index.html)
+- [Organizing a Rhetorical Analysis Essay — Purdue OWL](https://owl.purdue.edu/owl/general_writing/visual_rhetoric/analyzing_visual_documents/organizing_your_analysis.html)
 
-### Write your own novel
+## Scholarly Editing, TEI & Digital Humanities
 
-* [How to Write a Novel: 12 Simple Steps From a Bestseller](https://jerryjenkins.com/how-to-write-a-novel) (Step-by-step guide)
-* [How to Write a Novel Step-by-Step: A Proven Roadmap](https://www.novel-software.com/how-to-write-a-novel) (Comprehensive roadmap)
-* [How to write a novel – a step-by-step guide](https://nationalcentreforwriting.org.uk/writing-hub/how-to-write-a-novel-a-step-by-step-guide) (Multi-part tutorial with writer advice)
+- [Introduction to Encoding Texts in TEI-XML — The Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-tei-1)
+- [Interactive TEI by Example Tutorials — Centre for Computing in the Humanities](http://teibyexample.org/)
+- [Corpus Analysis and Exploration with Voyant Tools — The Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-voyant-tools)
+- [Topic Modeling with MALLET on Literary Corpora — The Programming Historian](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet)
+- [Sentiment Analysis for Exploratory Data Analysis — The Programming Historian](https://programminghistorian.org/en/lessons/sentiment-analysis)
+- [Sentiment Analysis with 'syuzhet' in R — The Programming Historian](https://programminghistorian.org/en/lessons/sentiment-analysis-syuzhet)
 
-### Write your own short story
+## Archival Research, Paleography & Manuscript Curation
 
-* [How to Write a Short Story in 8 Simple Steps](https://reedsy.com/studio/resources/how-to-write-a-short-story) (Procedural guide)
-* [How to Write a Short Story: 9 Proven Steps](https://jerryjenkins.com/how-to-write-short-stories) (Step-by-step process)
-* [How to write a short story](https://nationalcentreforwriting.org.uk/writing-hub/how-to-write-a-short-story-2) (Structured tutorial)
+- [Teacher's Guides and Primary Source Analysis Tools — Library of Congress](https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/guides/)
+- [Early Modern Manuscripts Online (EMMO) & Paleography — Folger Shakespeare Library](https://www.folger.edu/research/emmo-early-modern-manuscripts-online/)
+- [Practical Paleography and Manuscript Transcription — Folger Shakespeare Library](https://transcribe.folger.edu/)
 
-### Compose your own poem
+## Corpus Linguistics & Computational Stylistics
 
-* [How to Write a Poem: A Step-by-Step Guide](https://www.grammarly.com/blog/creative-writing/how-to-write-a-poem) (Technique-focused steps)
-* [How to write a poem](https://thecreativeindependent.com/guides/how-to-write-a-poem) (Practical beginner guide)
+- [Corpus Analysis with AntConc: Concordance and Keyword Analysis — The Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
+- [Corpus Analysis with spaCy: Part-of-Speech Tagging and Dependency Parsing — The Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy)
 
-### Write your own play
+## Literary Translation & Cross-Cultural Adaptation
 
-* [How to Write a Play: 7 Steps](https://www.instructables.com/How-To-Write-a-Play) (Step-by-step tutorial)
-* [How to Write a Play english-studies A Step by Step Guide to Writing Your First Play](https://www.stagemilk.com/how-to-write-a-play) (Detailed process)
-* [How to Write a Play in 9 Steps](https://www.masterclass.com/articles/how-to-write-a-play) (Structured guide)
+- [Resources and Best Practices in Literary Translation — American Literary Translators Association (ALTA)](https://literarytranslators.org/resources)
+- [Translation Guides and Negotiating Checklists — PEN America](https://pen.org/translation-committee/)
+- [Literary Translation Model Contract and Commentary — The Authors Guild](https://authorsguild.org/resource/translation-model-contract/)
 
-### Write your own screenplay
+## Creative Writing, Poetics & Dramatic Craft
 
-* [How to Write a Screenplay: The Complete Guide](https://www.finaldraft.com/learn/how-to-write-a-screenplay-complete-guide) (Full tutorial)
-* [How to Write a Screenplay](https://nofilmschool.com/how-to-write-a-screenplay) (Step-by-step from idea to finish)
-* [How to Write a Movie Script: Screenplay Format and Examples](https://www.studiobinder.com/blog/how-to-write-a-screenplay) (Format and process guide)
-
-### Write your own literary essay
-
-* [How to Write a Literary Analysis Essay english-studies A Step-by-Step Guide](https://www.scribbr.com/academic-essay/literary-analysis/) (Procedural steps)
-* [How to Write a Literary Essay Step by Step](https://www.bucks.edu/media/bcccmedialibrary/pdf/HOWTOWRITEALITERARYANALYSISESSAY_10.15.07_001.pdf) (Step-by-step PDF guide)
-
-### Write your own critical review
-
-* [How to Write a Critical Review english-studies Step-by-Step Guide](https://www.scribbr.com/academic-writing/critical-review/) (Structured tutorial)
-* [How to Write a Critique](https://www.utsc.utoronto.ca/twc/sites/utsc.utoronto.ca.twc/files/resource-files/Critique.pdf) (Step-by-step academic guide)
-
-### Perform your own close reading
-
-* [How to Do a Close Reading](https://writingcenter.fas.harvard.edu/pages/how-do-close-reading) (Step-by-step method)
-* [Close Reading: A Step-by-Step Guide](https://owl.purdue.edu/owl/research_and_citation/conducting_research/conducting_primary_research/close_reading.html) (Procedural instructions)
-
-### Construct your own theoretical argument
-
-* [How to Write a Thesis Statement](https://writingcenter.unc.edu/tips-and-tools/thesis-statements/) (Building argument core)
-* [How to Structure an Argument in an Essay](https://www.scribbr.com/academic-essay/argumentative-essay/) (Step-by-step for theoretical claims)
-
-### Compile your own annotated bibliography
-
-* [How to Write an Annotated Bibliography](https://guides.library.cornell.edu/annotatedbibliography) (Step-by-step guide)
-* [Annotated Bibliographies – The Writing Center](https://writingcenter.unc.edu/tips-and-tools/annotated-bibliographies/) (Procedural tutorial)
-
-### Write your own memoir
-
-* [How to Write a Memoir: Examples and a Step-by-Step Guide](https://www.jerryjenkins.com/how-to-write-a-memoir/) (Detailed steps)
-* [How to Write a Memoir](https://www.masterclass.com/articles/how-to-write-a-memoir) (Structured process)
-
-### Write your own personal essay
-
-* [How to Write a Personal Essay](https://www.masterclass.com/articles/how-to-write-a-personal-essay) (Step-by-step guide)
-* [How to Write a Personal Essay: Step-by-Step Guide](https://www.grammarly.com/blog/personal-essay/) (Procedural tutorial)
-
-### Create your own experimental text
-
-* [How to Write Experimental Fiction](https://lithub.com/how-to-write-experimental-fiction/) (Practical approaches)
-* [Experimental Writing Exercises](https://www.poetryfoundation.org/articles/experimental-writing) (Step-based prompts)
-
-### Produce your own literary translation
-
-* [How to Get Started in Literary Translation](https://www.pen.org/how-to-get-started-in-literary-translation/) (Step-by-step guide)
-* [A Step-by-Step Guide to Literary Translation](https://www.translationdirectory.com/articles/article1429.php) (Procedural tutorial)
-
-### Build your own digital edition
-
-* [How to Create a Digital Edition](<https://www.text> Encoding Initiative.org/tei-digital-editions) (TEI-based steps)
-* [Building a Digital Edition: A Practical Guide](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (Step-by-step with tools)
+- [How to Read and Scansion a Poem — The Poetry Foundation](https://www.poetryfoundation.org/articles/69955/how-to-read-a-poem)
+- [Learning the Poetic Line and Meter — The Poetry Foundation](https://www.poetryfoundation.org/articles/70144/learning-the-poetic-line)
+- [Glossary of Poetic Terms and Forms — The Poetry Foundation](https://www.poetryfoundation.org/education/glossary)
+- [Step-by-Step Novel and Fiction Craft Roadmaps — National Centre for Writing](https://nationalcentreforwriting.org.uk/writing-hub/how-to-write-a-novel-a-step-by-step-guide/)
+- [Playwriting and Narrative Resources — National Centre for Writing](https://nationalcentreforwriting.org.uk/writing-hub/)

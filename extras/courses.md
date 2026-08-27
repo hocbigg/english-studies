@@ -1,49 +1,29 @@
-# Great Courses
+# Great Courses in English Studies
 
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
-The most common reasons are that the course isn't available often enough,
-or that there was an alternative that fit better into the curriculum.
+A curated directory of standout university lecture series, full-length OpenCourseWare offerings, and high-production MOOCs designed to deepen textual intuition, period knowledge, and analytical rigor.
 
-## World Literature
+---
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Modern Masterpieces of World Literature](https://pll.harvard.edu/course/modern-masterpieces-world-literature) | 6 weeks | 5–7 hours/week
-[Masterpieces of World Literature](https://pll.harvard.edu/course/masterpieces-of-world-literature) | 12 weeks | 3–6 hours/week
+## Major Authors & The American Novel
 
-## American Literature
+- [The American Novel Since 1945 (Open Yale Courses — Prof. Amy Hungerford)](https://oyc.yale.edu/english/engl-291)
+- [Milton (Open Yale Courses — Prof. John Rogers)](https://oyc.yale.edu/english/engl-220)
+- [Major Authors: Melville and Morrison (MIT OCW — Prof. Wyn Kelley)](https://ocw.mit.edu/courses/21l-705-major-authors-melville-and-morrison-fall-2003/)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Hemingway, Fitzgerald, Faulkner](https://oyc.yale.edu/english/engl-351) | Self-paced (15 sessions) | 6–8 hours/week
-[The American Novel Since 1945](https://oyc.yale.edu/english/engl-291) | Self-paced (26 sessions) | 7–9 hours/week
+## Modern Poetics & Lyric Traditions
 
-## Poetry and Theory
+- [Modern Poetry (Open Yale Courses — Prof. Langdon Hammer)](https://oyc.yale.edu/english/engl-310)
+- [Modern & Contemporary American Poetry — "ModPo" (Coursera / University of Pennsylvania — Prof. Al Filreis)](https://www.coursera.org/learn/modpo)
+- [Studies in Poetry: "Does Poetry Matter? Poetry and Technology" (MIT OCW — Prof. Stephen Tapscott)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-poetry-and-technology-spring-2018/)
+- [Literary Interpretation: Interpreting Poetry (MIT OCW — Prof. Stephen Tapscott)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Studies in Poetry: "Does Poetry Matter? Poetry and Technology"](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-poetry-and-technology-spring-2018/) | Self-paced (13 weeks) | 5–7 hours/week
-[Literary Interpretation: Interpreting Poetry](https://ocw.mit.edu/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/) | Self-paced (13 weeks) | 6–8 hours/week
+## Shakespeare, Drama & Performance
 
-## Historical Fiction and Genres
+- [Shakespeare’s Life and Work (Harvard University / edX — Prof. Stephen Greenblatt)](https://www.edx.org/learn/shakespeare/harvard-university-shakespeare-s-life-and-work)
+- [Shakespeare's Hamlet: The Ghost (Harvard University / edX — Prof. Stephen Greenblatt)](https://pll.harvard.edu/course/shakespeares-hamlet-ghost)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Plagues, Witches, and War: The Worlds of Historical Fiction](https://www.coursera.org/learn/historical-fiction) | 5 weeks | 4–6 hours/week
-[Literature of the English Country House](https://www.futurelearn.com/courses/literature-of-the-english-country-house) | 6 weeks | 3 hours/week
+## World Literature & Historical Narrative
 
-## Online Learning - Great Courses
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2 hours/week
-[Mindshift](https://www.coursera.org/learn/mindshift) | 4 weeks | 2 hours/week
-[Powersearching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) | 3 weeks | 4-6 hours/week
-
-## Other
-
-- [OER Commons: English and Literature Resources](https://www.oercommons.org/hubs/english)
-- [Open Educational Resources for English (ASCCC OERI)](https://asccc-oeri.org/open-educational-resources-and-english/)
-- [English Open Textbooks (GALILEO)](https://oer.galileo.usg.edu/english-textbooks/)
-- [Saylor Academy: English Literature Courses](https://www.saylor.org/english/)
-- [OpenLearn: Literature Courses](https://www.open.edu/openlearn/history-the-arts/literature)
+- [Masterpieces of World Literature (Harvard University / edX — Profs. David Damrosch & Martin Puchner)](https://pll.harvard.edu/course/masterpieces-world-literature)
+- [Modern Masterpieces of World Literature (Harvard University / edX — Profs. David Damrosch & Martin Puchner)](https://pll.harvard.edu/course/modern-masterpieces-world-literature)
+- [Plagues, Witches, and War: The Worlds of Historical Fiction (Coursera / University of Virginia — Prof. Bruce Holsinger)](https://www.coursera.org/learn/historical-fiction)
