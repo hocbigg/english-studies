@@ -4,8 +4,6 @@ A curated directory of actionable project walkthroughs, step-by-step methodologi
 
 Learners can select a tangible project artifact to build—whether an archival transcription, a TEI digital edition, a corpus linguistic analysis, or a close-reading critical essay—and discover theoretical frameworks through hands-on practice.
 
----
-
 ## Textual, Rhetorical & Literary Criticism
 
 - [How to Do a Close Reading — Harvard College Writing Center](https://writingcenter.fas.harvard.edu/pages/how-do-close-reading)

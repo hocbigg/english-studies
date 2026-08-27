@@ -2,8 +2,6 @@
 
 A curated directory of standout university lecture series, full-length OpenCourseWare offerings, and high-production MOOCs designed to deepen textual intuition, period knowledge, and analytical rigor.
 
----
-
 ## Major Authors & The American Novel
 
 - [The American Novel Since 1945 (Open Yale Courses — Prof. Amy Hungerford)](https://oyc.yale.edu/english/engl-291)

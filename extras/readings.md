@@ -2,8 +2,6 @@
 
 A curated bibliography of landmark monographs, seminal theoretical essays, and field-defining critical texts that have shaped the discipline of English Studies and literary analysis.
 
----
-
 ## Foundations of Literary Criticism, Poetics & Hermeneutics
 
 | Title | Author(s) | Type | Why It's Worth Reading |
@@ -15,8 +13,6 @@ A curated bibliography of landmark monographs, seminal theoretical essays, and f
 | *Mimesis: The Representation of Reality in Western Literature* | Erich Auerbach | Landmark Monograph | A monumental work of comparative philology tracing the historical representation of everyday human reality from Homer and the Hebrew Bible through Modernism. |
 | *The Dialogic Imagination: Four Essays* | Mikhail Bakhtin | Monograph / Essays | Introduced polyphony, heteroglossia, and the chronotope, establishing the novel as an inherently dialogic form responsive to competing social languages. |
 
----
-
 ## Structuralism, Post-Structuralism & Deconstruction
 
 | Title | Author(s) | Type | Why It's Worth Reading |
@@ -26,8 +22,6 @@ A curated bibliography of landmark monographs, seminal theoretical essays, and f
 | *Of Grammatology* | Jacques Derrida | Landmark Monograph | Deconstructs Western phonocentrism and the metaphysics of presence, introducing différance and the radical undecidability of textuality. |
 | *Blindness and Insight: Essays in the Rhetoric of Contemporary Criticism* | Paul de Man | Monograph / Essays | Demonstrates through rigorous rhetorical deconstruction that critical insights paradoxically depend upon an author's unavoidable linguistic blindness. |
 | *S/Z: An Essay* | Roland Barthes | Monograph | A masterclass in structuralist and post-structuralist close reading, dissecting Balzac's *Sarrasine* through five overlapping cultural and hermeneutic codes. |
-
----
 
 ## Marxism, Cultural Materialism & New Historicism
 
@@ -39,8 +33,6 @@ A curated bibliography of landmark monographs, seminal theoretical essays, and f
 | *Renaissance Self-Fashioning: From More to Shakespeare* | Stephen Greenblatt | Landmark Monograph | Inaugurated New Historicism by demonstrating how 16th-century identity was constructed through the interplay of state power, cultural institutions, and subversion. |
 | *The Country and the City* | Raymond Williams | Monograph | Traces the evolving cultural representation of rural and urban landscapes in English literature against the historical rise of agrarian and industrial capitalism. |
 
----
-
 ## Feminist Poetics, Gender Studies & Queer Theory
 
 | Title | Author(s) | Type | Why It's Worth Reading |
@@ -50,8 +42,6 @@ A curated bibliography of landmark monographs, seminal theoretical essays, and f
 | *Epistemology of the Closet* | Eve Kosofsky Sedgwick | Landmark Monograph | Inaugurated queer literary theory, demonstrating that modern Western culture and narrative structures are shaped by the homo/heterosexual binary. |
 | *Gender Trouble: Feminism and the Subversion of Identity* | Judith Butler | Landmark Monograph | Revolutionized gender studies by theorizing gender identity not as a biological essence, but as a stylized, socially coerced performative act. |
 | *In Search of Our Mothers' Gardens: Womanist Prose* | Alice Walker | Essay Collection | Formulated womanist theory, recovering the suppressed creative legacies and distinct literary traditions of Black women writers. |
-
----
 
 ## Postcolonialism, Critical Race Theory & Global Anglophone Studies
 

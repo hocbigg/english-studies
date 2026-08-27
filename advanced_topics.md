@@ -10,8 +10,6 @@ This document provides advanced specialization tracks for learners who have comp
 - [Advanced Creative Writing, Poetics & Craft](#advanced-creative-writing-poetics--craft): Master advanced narrative architecture, prosodic theory, dramatic structures, and the lyric essay.
 - [Rhetoric, Stylistics & Language Studies](#rhetoric-stylistics--language-studies): Analyze the linguistic mechanics of literature, cognitive metaphor, argumentation, and discourse structures.
 
----
-
 ## Advanced Critical Theory & Cultural Studies
 
 Investigate how literature interacts with social power, philosophy, ecology, and identity through contemporary theoretical frameworks.
@@ -23,8 +21,6 @@ Investigate how literature interacts with social power, philosophy, ecology, and
 | Critical Race Theory & Black Aesthetics | Examines the construction of race, racialized literary canons, vernacular traditions, and systemic white supremacy across literary forms. | - Henry Louis Gates Jr., *The Signifying Monkey: A Theory of African-American Literary Criticism* (Oxford UP)<br>- Toni Morrison, *Playing in the Dark: Whiteness and the Literary Imagination* (Harvard UP)<br>- Fred Moten, *In the Break: The Aesthetics of the Black Radical Tradition* (Univ. of Minnesota Press)<br>- [MIT OCW: Ethnic Literature in America](https://ocw.mit.edu/courses/21l-709-ethnic-literature-in-america-spring-2017/) |
 | Ecocriticism & Environmental Humanities | Explores how narrative represents nonhuman agency, ecological collapse, extractive capitalism, and environmental racism. | - Lawrence Buell, *The Environmental Imagination* (Harvard UP)<br>- Rob Nixon, *Slow Violence and the Environmentalism of the Poor* (Harvard UP)<br>- Donna J. Haraway, *Staying with the Trouble: Making Kin in the Chthulucene* (Duke UP) |
 | Biopolitics, Affect Theory & New Materialism | Investigates the visceral, pre-linguistic forces of emotion, bodily governance, sovereign power, and the agency of non-human matter. | - Michel Foucault, *The History of Sexuality, Volume 1: An Introduction* (Vintage)<br>- Lauren Berlant, *Cruel Optimism* (Duke UP)<br>- Jane Bennett, *Vibrant Matter: A Political Ecology of Things* (Duke UP) |
-
----
 
 ## Period Specializations & Global Anglophone Literatures
 
@@ -38,8 +34,6 @@ Engage in advanced historical, archival, and formal investigations of major lite
 | Transatlantic Modernisms & The Avant-Garde | Studies radical stylistic experiments, high modernism, stream-of-consciousness, and historical avant-garde movements across the Atlantic. | - Marjorie Perloff, *The Futurist Moment: Avant-Garde, Poetics, and the Language of Rupture* (Univ. of Chicago Press)<br>- Michael Levenson, *A Genealogy of Modernism* (Cambridge UP)<br>- Houston A. Baker Jr., *Modernism and the Harlem Renaissance* (Univ. of Chicago Press) |
 | Postmodernism & Contemporary Global Anglophone Fiction | Tracks post-WWII metafiction, late-capitalist cultural logic, transnational publishing circuits, and decolonial world literature. | - Fredric Jameson, *Postmodernism, or, The Cultural Logic of Late Capitalism* (Duke UP)<br>- Pascale Casanova, *The World Republic of Letters* (Harvard UP)<br>- [MIT OCW: Problems in Cultural Theory — Postmodernism](https://ocw.mit.edu/courses/21l-707-problems-in-cultural-theory-postmodernism-fall-2004/) |
 
----
-
 ## Digital Humanities, Book History & Textual Scholarship
 
 Bridge literary criticism with computational analytics, text encoding standards, archival science, and print culture history.
@@ -49,8 +43,6 @@ Bridge literary criticism with computational analytics, text encoding standards,
 | Computational Literary Studies & Distant Reading | Leverages statistical modeling, corpus linguistics, and macroanalysis to study literary shifts across thousands of digitized texts. | - Franco Moretti, *Distant Reading* (Verso)<br>- Ted Underwood, *Distant Horizons: Digital Evidence and Literary Change* (Univ. of Chicago Press)<br>- [The Programming Historian](https://programminghistorian.org/) (Open-access peer-reviewed digital humanities methods) |
 | Text Encoding & Digital Scholarly Editing | Teaches XML/TEI standards and digital editorial theory to transcribe, annotate, and preserve primary manuscript and print witnesses. | - [TEI by Example (TBE)](http://teibyexample.org/) (Interactive Text Encoding Initiative tutorials)<br>- Elena Pierazzo, *Digital Scholarly Editing: Theories, Models and Methods* (Open Book Publishers)<br>- Lou Burnard, *What is the Text Encoding Initiative?* (OpenEdition) |
 | History of the Book & Material Bibliography | Examines the physical production, circulation, censorship, and reception of manuscripts, printed books, and early periodicals. | - Robert Darnton, "What is the History of Books?" (*Daedalus*, Vol. 111, No. 3)<br>- D. F. McKenzie, *Bibliography and the Sociology of Texts* (Cambridge UP)<br>- David Finkelstein and Alistair McCleery, *An Introduction to Book History* (Routledge) |
-
----
 
 ## Advanced Creative Writing, Poetics & Craft
 
@@ -62,8 +54,6 @@ Master the advanced technical mechanics of narrative architecture, verse constru
 | Advanced Prosody, Poetics & Lyric Forms | Develops technical mastery over traditional accentual-syllabic meters, nonce forms, open forms, sonic patterning, and lyric compression. | - Paul Fussell, *Poetic Meter and Poetic Form* (McGraw-Hill)<br>- Helen Vendler, *Poems, Poets, Poetry: An Introduction and Anthology* (Bedford/St. Martin's)<br>- Philip Gross, *The Water Table* (Bloodaxe Books) |
 | Creative Nonfiction & The Lyric Essay | Investigates the boundaries between memoir, journalism, cultural critique, and poetic prose through personal essay traditions. | - Vivian Gornick, *The Situation and the Story: The Art of Personal Narrative* (Farrar, Straus and Giroux)<br>- John D'Agata (ed.), *The Lost Origins of the Essay* (Graywolf Press)<br>- Brenda Miller and Suzanne Paola, *Tell It Slant: Creating, Refining, and Publishing Creative Nonfiction* (McGraw-Hill) |
 | Advanced Dramatic Writing & Dramaturgy | Analyzes scene objectives, subtext, three-act and non-linear dramatic structures, and the dialogue-to-action translation. | - Lajos Egri, *The Art of Dramatic Writing* (Touchstone)<br>- David Mamet, *Three Uses of the Knife: On the Nature and Purpose of Drama* (Vintage)<br>- Elinor Fuchs, "Visit to a Small Planet: Some Questions to Ask a Play" (*Theater*, Duke UP) |
-
----
 
 ## Rhetoric, Stylistics & Language Studies
 
