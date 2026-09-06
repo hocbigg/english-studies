@@ -59,7 +59,6 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
     
     [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
-
 # Curriculum
 
 - [How to use this curriculum](#how-to-use-this-curriculum)
@@ -99,14 +98,14 @@ These four sections form the essential undergraduate foundation for English Stud
 | [Purdue OWL: General Writing & Research](https://owl.purdue.edu/owl/purdue_owl.html) | Foundational academic writing: thesis construction, paragraph unity, and rhetoric. Pair with Gerald Graff & Cathy Birkenstein, *They Say / I Say*. |
 | [MLA Style Center](https://style.mla.org/) | Authoritative documentation, citation, and scholarly research guidelines for English and the humanities. |
 | [*Literature, the Humanities, and Humanity*](https://open.umn.edu/opentextbooks/textbooks/literature-the-humanities-and-humanity) (Open Textbook Library) | Open-access guide to literary terms, genre conventions, and critical analysis. |
-| *A Glossary of Literary Terms* (M. H. Abrams & Geoffrey Galt Harpham) | Standard reference handbook for literary vocabulary, tropes, meters, and historical movements. |
+| *[A Glossary of Literary Terms](https://books.google.com/books?isbn=9781133417965)* (M. H. Abrams & Geoffrey Galt Harpham) | Standard reference handbook for literary vocabulary, tropes, meters, and historical movements. |
 
 ### Introduction to English Language
 
 | Course / Resource | Notes |
 | --- | --- |
 | [Introduction to Linguistics](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) (MIT OCW) | Language structure, phonetics, phonology, syntax, and semantics; essential for analyzing poetic meter and prose style. |
-| *A Biography of the English Language* (C. M. Millward & Mary Hayes) or *The Cambridge Encyclopedia of the English Language* (David Crystal) | Historical development of English from Old and Middle English to Early Modern and global varieties. |
+| *[A Biography of the English Language](https://books.google.com/books?isbn=9780495906414)* (C. M. Millward & Mary Hayes) or *[The Cambridge Encyclopedia of the English Language](https://books.google.com/books?isbn=9781108423595)* (David Crystal) | Historical development of English from Old and Middle English to Early Modern and global varieties. |
 
 ## Literary Forms & Close Reading
 
@@ -116,7 +115,7 @@ These four sections form the essential undergraduate foundation for English Stud
 
 | Course / Resource | Notes |
 | --- | --- |
-| *The Norton Introduction to Literature* (ed. Kelly J. Mays) or *How to Read Literature* (Terry Eagleton) | Core introduction to close reading methodology, narrative voice, poetic devices, and dramatic form. |
+| *[The Norton Introduction to Literature](https://books.google.com/books?isbn=9780393886306)* (ed. Kelly J. Mays) or *[How to Read Literature](https://books.google.com/books?isbn=9780300190960)* (Terry Eagleton) | Core introduction to close reading methodology, narrative voice, poetic devices, and dramatic form. |
 | [Reading Fiction: Imaginary Journeys](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/) (MIT OCW) | Narrative structure, point of view, characterization, setting, and thematic development. |
 | [Reading Poetry](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2018/) (MIT OCW) | Scansion, meter, stanzaic forms, sonic effects, imagery, and figurative language. |
 | [Shakespeare’s Life and Work](https://www.edx.org/learn/shakespeare/harvard-university-shakespeare-s-life-and-work) (Harvard / edX) | Dramatic structure, staging conventions, performance history, and early modern theatrical texts. |
@@ -134,7 +133,7 @@ These four sections form the essential undergraduate foundation for English Stud
 | [British Literature II: Romantic Era to the Twentieth Century and Beyond](https://open.umn.edu/opentextbooks/textbooks/british-literature-ii-romantic-era-to-the-twentieth-century-and-beyond) (Open Textbook Library / UNG Press) | Survey covering Romanticism, the Victorian period, Modernism, and post-war literature. |
 | [American Literature I: An Anthology of Texts From Early America Through the Civil War](https://open.umn.edu/opentextbooks/textbooks/american-literature-i-an-anthology-of-texts-from-early-america-through-the-civil-war) (Open Textbook Library / VIVA) | Survey covering indigenous oral traditions, colonial writing, the early republic, and American Romanticism/Transcendentalism. |
 | [Writing the Nation: A Concise Introduction to American Literature 1865 to Present](https://open.umn.edu/opentextbooks/textbooks/writing-the-nation-a-concise-introduction-to-american-literature-1865-to-present) (Open Textbook Library / UNG Press) | Survey covering post-Civil War Realism, Naturalism, the Harlem Renaissance, Modernism, and Contemporary literature. |
-| *The Norton Anthology of English Literature* & *The Norton Anthology of American Literature* | Standard canonical multi-volume anthologies for extensive period introductions, contextual essays, and authoritative primary texts. |
+| *[The Norton Anthology of English Literature](https://books.google.com/books?isbn=9780393912487)* & *[The Norton Anthology of American Literature](https://books.google.com/books?isbn=9780393264470)* | Standard canonical multi-volume anthologies for extensive period introductions, contextual essays, and authoritative primary texts. |
 
 ## Literary Theory & Methods
 
@@ -143,8 +142,8 @@ These four sections form the essential undergraduate foundation for English Stud
 | Course / Resource | Notes |
 | --- | --- |
 | [Introduction to Theory of Literature](https://oyc.yale.edu/english/engl-300) (Open Yale Courses — Prof. Paul H. Fry) | Major twentieth-century theoretical frameworks: Russian Formalism, New Criticism, Structuralism, Deconstruction, Psychoanalysis, Marxism, Historicism, and Gender Studies. |
-| *Beginning Theory: An Introduction to Literary and Cultural Theory* (Peter Barry) | Clear, beginner-friendly explanations of major critical movements with practical examples of theory applied to literary texts. |
-| *Literary Theory: A Very Short Introduction* (Jonathan Culler) | Concise conceptual overview of literature, meaning, poetics, rhetoric, and cultural studies. |
+| *[Beginning Theory: An Introduction to Literary and Cultural Theory](https://books.google.com/books?isbn=9781526121806)* (Peter Barry) | Clear, beginner-friendly explanations of major critical movements with practical examples of theory applied to literary texts. |
+| *[Literary Theory: A Very Short Introduction](https://books.google.com/books?isbn=9780199691340)* (Jonathan Culler) | Concise conceptual overview of literature, meaning, poetics, rhetoric, and cultural studies. |
 
 ## Congratulations
 
