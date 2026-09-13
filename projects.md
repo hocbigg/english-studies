@@ -1,48 +1,53 @@
-# Projects
+# Projects in English Studies
 
-A curated directory of actionable project walkthroughs, step-by-step methodological guides, and analytical workflows for English Studies.
+A curated directory of concrete, step-by-step project guides, methodological walkthroughs, open-source templates, and real-world analytical workflows for self-directed learners in English Studies.
 
-Learners can select a tangible project artifact to build—whether an archival transcription, a TEI digital edition, a corpus linguistic analysis, or a close-reading critical essay—and discover theoretical frameworks through hands-on practice.
+## Write a Literary Analysis Essay
 
-## Textual, Rhetorical & Literary Criticism
+- [How to Do a Close Reading (Harvard College Writing Center)](https://writingcenter.fas.harvard.edu/pages/how-do-close-reading)
+- [Writing About Fiction: Close Reading and Thesis Development (Purdue OWL)](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_fiction/index.html)
+- [Writing About Poetry: A Step-by-Step Analysis Guide (Purdue OWL)](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_poetry.html)
+- [Strategies for Essay Writing: Developing an Argument and Counterargument (Harvard College Writing Center)](https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing)
 
-- [How to Do a Close Reading — Harvard College Writing Center](https://writingcenter.fas.harvard.edu/pages/how-do-close-reading)
-- [Writing in Literature: Analysis, Interpretation, and Evidence — Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/index.html)
-- [Developing a Central Thesis & Counterargument — Harvard College Writing Center](https://writingcenter.fas.harvard.edu/strategies-essay-writing)
-- [Writing a Literature Review in the Humanities — UNC Writing Center](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/)
-- [Creating an Annotated Bibliography in MLA Format — Purdue OWL](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/index.html)
-- [Organizing a Rhetorical Analysis Essay — Purdue OWL](https://owl.purdue.edu/owl/general_writing/visual_rhetoric/analyzing_visual_documents/organizing_your_analysis.html)
+## Write a Critical Book Review
 
-## Scholarly Editing, TEI & Digital Humanities
+- [Writing a Book Review: Critical Evaluation and Structure (Purdue OWL)](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/book_reviews.html)
 
-- [Introduction to Encoding Texts in TEI-XML — The Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-tei-1)
-- [Interactive TEI by Example Tutorials — Centre for Computing in the Humanities](http://teibyexample.org/)
-- [Corpus Analysis and Exploration with Voyant Tools — The Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-voyant-tools)
-- [Topic Modeling with MALLET on Literary Corpora — The Programming Historian](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet)
-- [Sentiment Analysis for Exploratory Data Analysis — The Programming Historian](https://programminghistorian.org/en/lessons/sentiment-analysis)
-- [Sentiment Analysis with 'syuzhet' in R — The Programming Historian](https://programminghistorian.org/en/lessons/sentiment-analysis-syuzhet)
+## Build a Digital Scholarly Edition
 
-## Archival Research, Paleography & Manuscript Curation
+- [TEI by Example: Tutorials on XML Text Encoding (Centre for Data, Culture & Society / KANTL)](https://teibyexample.org/tutorials/TBED00v00.htm)
+- [Building Static Sites with Jekyll and GitHub Pages (Programming Historian)](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+- [Digital Scholarly Editing: Theories and Practices (Open Book Publishers)](https://www.openbookpublishers.com/books/10.11647/obp.0095)
 
-- [Teacher's Guides and Primary Source Analysis Tools — Library of Congress](https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/guides/)
-- [Early Modern Manuscripts Online (EMMO) & Paleography — Folger Shakespeare Library](https://www.folger.edu/research/emmo-early-modern-manuscripts-online/)
-- [Practical Paleography and Manuscript Transcription — Folger Shakespeare Library](https://transcribe.folger.edu/)
+## Analyze a Literary Corpus Computationally
 
-## Corpus Linguistics & Computational Stylistics
+- [Corpus Analysis with spaCy: Text Parsing and Linguistic Annotation (Programming Historian)](https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy)
+- [Corpus Analysis with AntConc: Concordance and Keyword Analysis (Programming Historian)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
+- [Sentiment Analysis for Exploratory Data Analysis in Literary Texts (Programming Historian)](https://programminghistorian.org/en/lessons/sentiment-analysis)
 
-- [Corpus Analysis with AntConc: Concordance and Keyword Analysis — The Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
-- [Corpus Analysis with spaCy: Part-of-Speech Tagging and Dependency Parsing — The Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy)
+## Produce a Literary Translation and Critical Commentary
 
-## Literary Translation & Cross-Cultural Adaptation
+- [Getting the Rights to Translate a Work: A How-To Guide (Susan Bernofsky / TRANSLATIONiSTA)](https://translationista.com/2017/02/getting-rights-translate-work.html)
+- [The 2023 Manifesto on Literary Translation and Professional Practice (PEN America)](https://pen.org/the-2023-manifesto-on-literary-translation/)
+- [Writing a Translation Commentary: Methodological Walkthrough (Penélope Johnson / Routledge)](https://books.google.com/books?isbn=9781032227030) - Comprehensive guide for drafting a reflective translator's critical apparatus.
 
-- [Resources and Best Practices in Literary Translation — American Literary Translators Association (ALTA)](https://literarytranslators.org/resources)
-- [Translation Guides and Negotiating Checklists — PEN America](https://pen.org/translation-committee/)
-- [Literary Translation Model Contract and Commentary — The Authors Guild](https://authorsguild.org/resource/translation-model-contract/)
+## Write a Novel or Short Story Collection
 
-## Creative Writing, Poetics & Dramatic Craft
+- [How to Structure a Novel: Tension, Catalysts, and Story Arcs (National Centre for Writing)](https://nationalcentreforwriting.org.uk/writing-hub/how-to-structure-a-novel/)
+- [How to Write a Short Story: Compression, Scope, and Character Beats (National Centre for Writing)](https://nationalcentreforwriting.org.uk/writing-hub/how-to-write-a-short-story/)
 
-- [How to Read and Scansion a Poem — The Poetry Foundation](https://www.poetryfoundation.org/articles/69955/how-to-read-a-poem)
-- [Learning the Poetic Line and Meter — The Poetry Foundation](https://www.poetryfoundation.org/articles/70144/learning-the-poetic-line)
-- [Glossary of Poetic Terms and Forms — The Poetry Foundation](https://www.poetryfoundation.org/education/glossary)
-- [Step-by-Step Novel and Fiction Craft Roadmaps — National Centre for Writing](https://nationalcentreforwriting.org.uk/writing-hub/how-to-write-a-novel-a-step-by-step-guide/)
-- [Playwriting and Narrative Resources — National Centre for Writing](https://nationalcentreforwriting.org.uk/writing-hub/)
+## Compose a Poetry Chapbook or Verse Sequence
+
+- [Learning the Poetic Line: Syntax, Enjambment, and Lineation (The Poetry Foundation)](https://www.poetryfoundation.org/articles/70144/learning-the-poetic-line)
+- [Learning the Sonnet: Meter, Rhyme Schemes, and the Volta (The Poetry Foundation)](https://www.poetryfoundation.org/articles/70051/learning-the-sonnet)
+- [Modern & Contemporary American Poetry — ModPo (University of Pennsylvania / Coursera)](https://www.coursera.org/learn/modpo)
+
+## Write a Stage Play or Screenplay
+
+- [How to Write a Play: A Step-by-Step Guide to Writing Your First Play (StageMilk)](https://www.stagemilk.com/how-to-write-a-play/)
+- [How to Write a Movie Script: Screenplay Format and Visual Storytelling (StudioBinder)](https://www.studiobinder.com/blog/how-to-write-a-screenplay/)
+
+## Write a Personal Essay or Memoir
+
+- [Ignorance, Lies, Imagination and Subversion in Memoir and Personal Essays (Brevity / Lee Martin)](https://brevitymag.com/craft-essays/ignorance-lies-imagination/)
+- [The Situation and the Story: The Art of Personal Narrative (Vivian Gornick / FSG)](https://books.google.com/books?isbn=9780374528584) - Benchmark craft text on cultivating the reflective narrative persona.

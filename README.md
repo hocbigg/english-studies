@@ -3,39 +3,13 @@ title: Hocbigg - English Studies
 description: Path to a free self-taught education in English Studies!
 ---
 
-# Contents
-
-- [Summary](#summary)
-- [Communities](#communities)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-
-# Summary
+## Introduction
 
 The curriculum is a complete education in **English Studies** using online materials. It is designed to provide a well-rounded foundation equivalent to a 4-year undergraduate program, focusing on literature analysis, historical contexts, writing, linguistic principles, and critical theory.
 
-## Organization
-
-This repository is organized into three main components:
-
-- **Core Curriculum** (this page): the foundational knowledge of the field;
-- **[Advanced Topics](advanced_topics.md)**: focused study in specific areas;
-- **[Projects](projects.md)**: support learning through practical application throughout the curriculum.
-
-**Process:** Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.
-
-- For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.
-- The Core Curriculum provides a shared foundation and is intended to be completed in full.
-- Advanced Topics are optional; learners are encouraged to select one area of focus and complete all courses within that topic.
-
-Practical work is integrated through the [Projects section](projects.md) and may be undertaken alongside coursework.
-
-Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md).
-
 **[How to contribute](/CONTRIBUTING.html)**
 
-# Communities
+## Communities
 
 - Forums:
     - [Literature Network Forums](https://www.online-literature.com/forums/)
@@ -55,100 +29,65 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
     - [C18 Mastodon (18th Century Studies)](https://c18.masto.host/)
     - [zirk.us (Arts & Humanities Mastodon)](https://zirk.us/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/english-studies/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
-- Join our Discord server (for discussions around this and other curricula): 
-    
-    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
-# Curriculum
+## Curriculum
 
-- [How to use this curriculum](#how-to-use-this-curriculum)
-    - [Core Sections](#core-sections)
-- [Foundations of English Studies](#foundations-of-english-studies)
-    - [Language, Reading, and Writing Basics](#language-reading-and-writing-basics)
-    - [Introduction to English Language](#introduction-to-english-language)
-- [Literary Forms & Close Reading](#literary-forms--close-reading)
-    - [Fiction, Poetry, Drama](#fiction-poetry-drama)
-- [Literary History & Traditions](#literary-history--traditions)
-    - [Global and Anglophone Surveys](#global-and-anglophone-surveys)
-- [Literary Theory & Methods](#literary-theory--methods)
-- [Congratulations](#congratulations)
+### Academic Writing and Literary Analysis
 
-## How to use this curriculum
+This subject covers the conventions of scholarly argumentation, thesis development, rhetorical strategies, and evidence-based textual analysis essential for writing about literature.
 
-### Core Sections
+[Writing and Literature: Composition as Inquiry, Learning, Thinking, and Communication (Tanya Long Bennett)](https://open.umn.edu/opentextbooks/textbooks/writing-and-literature-composition-as-inquiry-learning-thinking-and-communication) - The primary open-access coursebook for this subject, guiding learners step-by-step through literary analysis, research paper construction, and close reading across major genres.
 
-These four sections form the essential undergraduate foundation for English Studies. They provide the practical reading and writing skills, formal analytic tools, historical surveys, and critical frameworks needed to study literature and language systematically. Complete them in this recommended sequence:
+[They Say / I Say: The Moves That Matter in Academic Writing (Gerald Graff & Cathy Birkenstein)](https://books.google.com/books?isbn=9780393538700) - A complementary rhetorical handbook that provides practical templates for entering scholarly debates, integrating textual quotations, and articulating critical counterarguments.
 
-**Foundations of English Studies**: Start here. Master academic argumentation, close reading fundamentals, documentation standards (MLA), and basic linguistics.
+[Literature, the Humanities, and Humanity (Theodore L. Steinberg)](https://open.umn.edu/opentextbooks/textbooks/literature-the-humanities-and-humanity) - An introductory reading text that complements Bennett by explaining why we study literature and modeling critical interpretation across a range of foundational texts.
 
-**Literary Forms & Close Reading**: Learn the formal mechanisms and analytical conventions of the three major genres: prose fiction, poetry, and dramatic literature.
+### History and Structure of the English Language
 
-**Literary History & Traditions**: Build chronological and historical context across British, American, and World Anglophone literary traditions.
+This subject examines the phonological, syntactic, and morphological systems of English alongside its historical development from Old and Middle English to Early Modern English and global dialects.
 
-**Literary Theory & Methods**: Engage with key 20th- and 21st-century theoretical lenses (formalism, psychoanalysis, Marxism, feminism, structuralism, post-structuralism, and postcolonialism) to interpret texts critically.
+[Introduction to Linguistics (MIT OpenCourseWare)](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) - Introduces core formal linguistic tools—including phonetics, phonology, and syntax—which provide the technical vocabulary required to analyze poetic meter and sentence architecture.
 
-## Foundations of English Studies
+[A Biography of the English Language (C. M. Millward & Mary Hayes)](https://books.google.com/books?isbn=9780495906414) - A structured chronological textbook that builds directly on foundational linguistics by detailing the internal linguistic changes and external social history of English from its Indo-European roots to modern global forms.
 
-*No prior knowledge assumed.*
+[The Cambridge Encyclopedia of the English Language (David Crystal)](https://books.google.com/books?isbn=9781108423595) - An accessible, narrative-driven alternative to Millward and Hayes, offering a richly illustrated overview of English language history, grammar, vocabulary, and worldwide dialect variations.
 
-### Language, Reading, and Writing Basics
+### Literary Forms and Close Reading
 
-| Course / Resource | Notes |
-| --- | --- |
-| [Purdue OWL: General Writing & Research](https://owl.purdue.edu/owl/purdue_owl.html) | Foundational academic writing: thesis construction, paragraph unity, and rhetoric. Pair with Gerald Graff & Cathy Birkenstein, *They Say / I Say*. |
-| [MLA Style Center](https://style.mla.org/) | Authoritative documentation, citation, and scholarly research guidelines for English and the humanities. |
-| [*Literature, the Humanities, and Humanity*](https://open.umn.edu/opentextbooks/textbooks/literature-the-humanities-and-humanity) (Open Textbook Library) | Open-access guide to literary terms, genre conventions, and critical analysis. |
-| *[A Glossary of Literary Terms](https://books.google.com/books?isbn=9781133417965)* (M. H. Abrams & Geoffrey Galt Harpham) | Standard reference handbook for literary vocabulary, tropes, meters, and historical movements. |
+This subject develops rigorous formal analysis of the three foundational literary genres—prose fiction, poetry, and drama—focusing on narrative voice, prosody, and dramatic structure.
 
-### Introduction to English Language
+[The Norton Introduction to Literature (Kelly J. Mays, ed.)](https://books.google.com/books?isbn=9780393886306) - The standard comprehensive textbook and anthology covering formal mechanics, interpretive methods, and exemplary works across all three major genres.
 
-| Course / Resource | Notes |
-| --- | --- |
-| [Introduction to Linguistics](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) (MIT OCW) | Language structure, phonetics, phonology, syntax, and semantics; essential for analyzing poetic meter and prose style. |
-| *[A Biography of the English Language](https://books.google.com/books?isbn=9780495906414)* (C. M. Millward & Mary Hayes) or *[The Cambridge Encyclopedia of the English Language](https://books.google.com/books?isbn=9781108423595)* (David Crystal) | Historical development of English from Old and Middle English to Early Modern and global varieties. |
+[How to Read Literature (Terry Eagleton)](https://books.google.com/books?isbn=9780300190960) - A concise and witty alternative to the Norton anthology, focusing closely on how to analyze tone, syntax, character development, and narrative technique without getting bogged down in jargon.
 
-## Literary Forms & Close Reading
+[Reading Fiction: Imaginary Journeys (MIT OpenCourseWare)](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/) - A complementary course dedicated specifically to prose analysis, examining narrative perspective, pacing, allegory, and character development in short stories and novels.
 
-*Skill-building through genre.*
+[Reading Poetry (MIT OpenCourseWare)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2018/) - A complementary syllabus focused specifically on poetic mechanics, providing exercises in scansion, meter, stanzaic structures, sonic texture, and figurative language.
 
-### Fiction, Poetry, Drama
+[Shakespeare’s Life and Work (Harvard University / edX)](https://pll.harvard.edu/course/shakespeares-life-and-work) - A genre-specific study of dramatic literature that uses Shakespeare's plays to examine early modern stagecraft, theatrical dialogue, soliloquy, and performance history.
 
-| Course / Resource | Notes |
-| --- | --- |
-| *[The Norton Introduction to Literature](https://books.google.com/books?isbn=9780393886306)* (ed. Kelly J. Mays) or *[How to Read Literature](https://books.google.com/books?isbn=9780300190960)* (Terry Eagleton) | Core introduction to close reading methodology, narrative voice, poetic devices, and dramatic form. |
-| [Reading Fiction: Imaginary Journeys](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/) (MIT OCW) | Narrative structure, point of view, characterization, setting, and thematic development. |
-| [Reading Poetry](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2018/) (MIT OCW) | Scansion, meter, stanzaic forms, sonic effects, imagery, and figurative language. |
-| [Shakespeare’s Life and Work](https://www.edx.org/learn/shakespeare/harvard-university-shakespeare-s-life-and-work) (Harvard / edX) | Dramatic structure, staging conventions, performance history, and early modern theatrical texts. |
+### British and American Literary History
 
-## Literary History & Traditions
+This subject surveys the historical development, intellectual currents, and representative works of the British and American literary traditions from the medieval period and colonial era through the twentieth century.
 
-*Chronological and cultural grounding.*
+[British Literature I Anthology: From the Middle Ages to Neoclassicism and the Eighteenth Century (Bonnie J. Robinson and Laura J. Getty, eds.)](https://open.umn.edu/opentextbooks/textbooks/british-literature-i-anthology-from-the-middle-ages-to-neoclassicism-and-the-eighteenth-century) - The first volume of the open British literature survey sequence, containing historical overviews and primary texts from the Old English period and Chaucer through Milton and the Augustans.
 
-### Global and Anglophone Surveys
+[British Literature II: Romantic Era to the Twentieth Century and Beyond (Bonnie J. Robinson, ed.)](https://open.umn.edu/opentextbooks/textbooks/british-literature-ii-romantic-era-to-the-twentieth-century-and-beyond) - Sequentially follows British Literature I, surveying the socio-literary transformations of Romanticism, the Victorian industrial landscape, Modernism, and post-war writing.
 
-| Course / Resource | Notes |
-| --- | --- |
-| [Masterpieces of World Literature](https://pll.harvard.edu/course/masterpieces-world-literature) (Harvard PLL / edX) | Global circulation of narrative, translation, canon formation, and cross-cultural literary forms. |
-| [British Literature I: From the Middle Ages to Neoclassicism and the Eighteenth Century](https://open.umn.edu/opentextbooks/textbooks/british-literature-i-anthology-from-the-middle-ages-to-neoclassicism-and-the-eighteenth-century) (Open Textbook Library / UNG Press) | Survey from Old English and Chaucer through the Renaissance, Milton, and the 18th century. |
-| [British Literature II: Romantic Era to the Twentieth Century and Beyond](https://open.umn.edu/opentextbooks/textbooks/british-literature-ii-romantic-era-to-the-twentieth-century-and-beyond) (Open Textbook Library / UNG Press) | Survey covering Romanticism, the Victorian period, Modernism, and post-war literature. |
-| [American Literature I: An Anthology of Texts From Early America Through the Civil War](https://open.umn.edu/opentextbooks/textbooks/american-literature-i-an-anthology-of-texts-from-early-america-through-the-civil-war) (Open Textbook Library / VIVA) | Survey covering indigenous oral traditions, colonial writing, the early republic, and American Romanticism/Transcendentalism. |
-| [Writing the Nation: A Concise Introduction to American Literature 1865 to Present](https://open.umn.edu/opentextbooks/textbooks/writing-the-nation-a-concise-introduction-to-american-literature-1865-to-present) (Open Textbook Library / UNG Press) | Survey covering post-Civil War Realism, Naturalism, the Harlem Renaissance, Modernism, and Contemporary literature. |
-| *[The Norton Anthology of English Literature](https://books.google.com/books?isbn=9780393912487)* & *[The Norton Anthology of American Literature](https://books.google.com/books?isbn=9780393264470)* | Standard canonical multi-volume anthologies for extensive period introductions, contextual essays, and authoritative primary texts. |
+[American Literature I: An Anthology of Texts From Early America Through the Civil War (Jenifer Kurtz, ed.)](https://open.umn.edu/opentextbooks/textbooks/american-literature-i-an-anthology-of-texts-from-early-america-through-the-civil-war) - The foundational volume of the open American literature survey, covering indigenous oral literatures, colonial captivity narratives, the early republic, and Transcendentalism.
 
-## Literary Theory & Methods
+[Writing the Nation: A Concise Introduction to American Literature 1865 to Present (Amy Berke et al., eds.)](https://open.umn.edu/opentextbooks/textbooks/writing-the-nation-a-concise-introduction-to-american-literature-1865-to-present) - Sequentially follows American Literature I, tracing American writing through post-Civil War Realism, Naturalism, the Harlem Renaissance, Modernism, and contemporary literature.
 
-*Conceptual tools for interpretation.*
+[The Norton Anthology of English Literature (Stephen Greenblatt, ed.)](https://books.google.com/books?isbn=9780393912487) - The canonical, multi-volume commercial alternative to the open British literature anthologies, offering more extensive critical introductions, annotations, and primary source selections.
 
-| Course / Resource | Notes |
-| --- | --- |
-| [Introduction to Theory of Literature](https://oyc.yale.edu/english/engl-300) (Open Yale Courses — Prof. Paul H. Fry) | Major twentieth-century theoretical frameworks: Russian Formalism, New Criticism, Structuralism, Deconstruction, Psychoanalysis, Marxism, Historicism, and Gender Studies. |
-| *[Beginning Theory: An Introduction to Literary and Cultural Theory](https://books.google.com/books?isbn=9781526121806)* (Peter Barry) | Clear, beginner-friendly explanations of major critical movements with practical examples of theory applied to literary texts. |
-| *[Literary Theory: A Very Short Introduction](https://books.google.com/books?isbn=9780199691340)* (Jonathan Culler) | Concise conceptual overview of literature, meaning, poetics, rhetoric, and cultural studies. |
+[The Norton Anthology of American Literature (Robert S. Levine, ed.)](https://books.google.com/books?isbn=9780393264470) - The canonical commercial alternative to the open American literature anthologies, providing definitive period framing, scholarly notes, and a wide selection of American authors.
 
-## Congratulations
+### Literary Theory and Critical Methods
 
-After completing the requirements of the curriculum above, you will have completed the foundational core of an undergraduate major in English Studies, equipped with the essential skills in close reading, historical contextualization, and critical theoretical analysis.
+This subject introduces the major twentieth- and twenty-first-century theoretical paradigms used to interpret literary texts, including Formalism, Psychoanalysis, Marxism, Structuralism, Post-Structuralism, and Postcolonialism.
 
-# Code of conduct
+[Introduction to Theory of Literature (Open Yale Courses — Prof. Paul H. Fry)](https://oyc.yale.edu/english/engl-300) - A comprehensive recorded lecture series that systematically surveys major modern critical movements, their philosophical premises, and their approaches to textual meaning.
 
-[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
+[Beginning Theory: An Introduction to Literary and Cultural Theory (Peter Barry)](https://books.google.com/books?isbn=9781526121806) - The essential companion textbook to Fry's lectures, offering plain-language explanations of theoretical schools along with practical demonstrations of how each theory is applied to a specific literary work.
+
+[Literary Theory: A Very Short Introduction (Jonathan Culler)](https://books.google.com/books?isbn=9780199691340) - An alternative, concise conceptual overview that introduces the core philosophical questions regarding language, identity, poetics, and cultural rhetoric before or alongside detailed study.
