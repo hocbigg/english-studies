@@ -2,8 +2,6 @@
 
 This document provides advanced specialization tracks for learners who have completed the core undergraduate curriculum in English Studies. Rather than attempting to complete every track, choose one or two areas that align with your specific intellectual, critical, or creative goals.
 
-### Specialization Tracks
-
 * [Critical Theory & Cultural Studies](#critical-theory--cultural-studies): Interrogate power dynamics, subjectivity, ideological hegemony, and ecological crises using modern critical frameworks.
 * [Period Specializations & Anglophone Literatures](#period-specializations--anglophone-literatures): Conduct deep historical, formal, and archival investigations of specific literary movements across Anglophone traditions.
 * [Digital Humanities, Book History & Textual Scholarship](#digital-humanities-book-history--textual-scholarship): Bridge literary criticism with computational corpus analytics, TEI metadata encoding, and the material sociology of print.

@@ -5,11 +5,8 @@ description: Path to a free self-taught education in English Studies!
 
 ## Introduction
 
-The curriculum is a complete education in **English Studies** using online materials. It is designed to provide a well-rounded foundation equivalent to a 4-year undergraduate program, focusing on literature analysis, historical contexts, writing, linguistic principles, and critical theory.
 
-**[How to contribute](/CONTRIBUTING.html)**
-
-## Communities
+### Communities
 
 - Forums:
     - [Literature Network Forums](https://www.online-literature.com/forums/)
