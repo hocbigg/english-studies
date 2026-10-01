@@ -5,6 +5,25 @@ description: Path to a free self-taught education in English Studies!
 
 ## Introduction
 
+English Studies is the systematic study of literature, language, and rhetoric. Far from being a passive appreciation of books, the discipline trains you to interrogate how texts construct meaning, how language operates as a historical and social force, and how literary forms shape cultural ideology. By studying English, you develop the capacity for rigorous close reading, evidentiary argumentation, and critical interpretation — skills that allow you to analyze complex discourses in literature, media, and public life.
+
+This curriculum is designed for independent, self-directed learners. It assumes no formal academic background in literary criticism or linguistics, beginning with foundational analytical tools before progressing to advanced historical and theoretical models.
+
+This document represents the foundational core of an undergraduate English major. It is intentionally lean, focusing strictly on the essential competencies and shared frames of reference that every student of the discipline requires before specializing. 
+
+While self-directed study permits flexibility, these subjects are most effective when completed in a deliberate sequence:
+
+- **Foundational Tools**: Begin with *Academic Writing and Literary Analysis* alongside *History and Structure of the English Language*. These subjects establish the baseline mechanics of academic argumentation, thesis development, grammar, and phonology necessary for analyzing complex style and verse.
+- **Formal Mechanics**: Proceed to *Literary Forms and Close Reading* to study the formal architecture and interpretive conventions of the three primary genres: prose fiction, poetry, and drama.
+- **Historical Surveys**: Work chronologically through *British and American Literary History*. Grounding your reading in historical context — from the medieval period through early modern revolutions, the rise of the novel, Romanticism, and 20th-century modernism — reveals how literary traditions develop and converse across centuries.
+- **Theoretical Frameworks**: Conclude with *Literary Theory and Critical Methods*. Theory introduces structured philosophical lenses (such as structuralism, Marxism, postcolonialism, and feminist critique) that challenge common-sense readings and uncover the hidden political and psychological dimensions of texts.
+
+This core curriculum focuses on foundational literacy across the discipline rather than exhaustive specialization. Once you have worked through these core subjects, you can branch out into specialized work:
+
+- Explore upper-level subdisciplines such as digital humanities, book history, or avant-garde poetics in [Advanced Topics](advanced_topics.md).
+- Apply your skills to concrete deliverables, such as drafting a literary analysis, compiling a critical review, or encoding a digital edition, in [Projects](projects.md).
+- Deepen your theoretical knowledge with landmark monographs and seminal critical essays listed in [Readings](extras/readings.md).
+- Reinforce your understanding with recorded university lecture series and audiovisual deep dives curated in [Courses](extras/courses.md).
 
 ### Communities
 
@@ -43,7 +62,7 @@ This subject covers the conventions of scholarly argumentation, thesis developme
 
 This subject examines the phonological, syntactic, and morphological systems of English alongside its historical development from Old and Middle English to Early Modern English and global dialects.
 
-[Introduction to Linguistics (MIT OpenCourseWare)](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) - Introduces core formal linguistic tools—including phonetics, phonology, and syntax—which provide the technical vocabulary required to analyze poetic meter and sentence architecture.
+[Introduction to Linguistics (MIT OpenCourseWare)](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/) - Introduces core formal linguistic tools — including phonetics, phonology, and syntax — which provide the technical vocabulary required to analyze poetic meter and sentence architecture.
 
 [A Biography of the English Language (C. M. Millward & Mary Hayes)](https://books.google.com/books?isbn=9780495906414) - A structured chronological textbook that builds directly on foundational linguistics by detailing the internal linguistic changes and external social history of English from its Indo-European roots to modern global forms.
 
@@ -51,7 +70,7 @@ This subject examines the phonological, syntactic, and morphological systems of 
 
 ### Literary Forms and Close Reading
 
-This subject develops rigorous formal analysis of the three foundational literary genres—prose fiction, poetry, and drama—focusing on narrative voice, prosody, and dramatic structure.
+This subject develops rigorous formal analysis of the three foundational literary genres — prose fiction, poetry, and drama — focusing on narrative voice, prosody, and dramatic structure.
 
 [The Norton Introduction to Literature (Kelly J. Mays, ed.)](https://books.google.com/books?isbn=9780393886306) - The standard comprehensive textbook and anthology covering formal mechanics, interpretive methods, and exemplary works across all three major genres.
 
@@ -83,7 +102,7 @@ This subject surveys the historical development, intellectual currents, and repr
 
 This subject introduces the major twentieth- and twenty-first-century theoretical paradigms used to interpret literary texts, including Formalism, Psychoanalysis, Marxism, Structuralism, Post-Structuralism, and Postcolonialism.
 
-[Introduction to Theory of Literature (Open Yale Courses — Prof. Paul H. Fry)](https://oyc.yale.edu/english/engl-300) - A comprehensive recorded lecture series that systematically surveys major modern critical movements, their philosophical premises, and their approaches to textual meaning.
+[Introduction to Theory of Literature (Open Yale Courses  —  Prof. Paul H. Fry)](https://oyc.yale.edu/english/engl-300) - A comprehensive recorded lecture series that systematically surveys major modern critical movements, their philosophical premises, and their approaches to textual meaning.
 
 [Beginning Theory: An Introduction to Literary and Cultural Theory (Peter Barry)](https://books.google.com/books?isbn=9781526121806) - The essential companion textbook to Fry's lectures, offering plain-language explanations of theoretical schools along with practical demonstrations of how each theory is applied to a specific literary work.
 
