@@ -1,142 +1,365 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
 
-<title>Advanced Topics</title>
-<link rel="stylesheet" href="/english-studies/style.css">
-<meta name="description" content="">
+  <title>Advanced Topics in English Studies</title>
+  <meta name="description" content="Advanced Topics in English Studies curriculum by hocbigg.">
+  <meta name="author" content="hocbigg">
 
-<link rel="canonical" href="https://hocbigg.github.io/english-studies/">
+  <link rel="canonical" href="https://hocbigg.github.io/english-studies/advanced_topics.html">
+  <meta property="og:title" content="Advanced Topics in English Studies">
+  <meta property="og:description" content="Advanced Topics in English Studies curriculum by hocbigg.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hocbigg.github.io/english-studies/advanced_topics.html">
+  <link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
 
-<meta property="og:title" content="Advanced Topics">
-<meta property="og:description" content="">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://hocbigg.github.io/english-studies/">
-<meta name="author" content="hocbigg">
-<link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
+  <style>
+:root {
+  color-scheme: light dark;
+
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #595959;
+  --border: #e0e0e0;
+  --th-bg: #f6f8fa;
+  --code-bg: #f4f4f4;
+  --link: #0969da;
+  --focus-ring: #0969da;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --border: #30363d;
+    --th-bg: #161b22;
+    --code-bg: #161b22;
+    --link: #58a6ff;
+    --focus-ring: #58a6ff;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1.5rem auto;
+  max-width: 60rem;
+  padding: 0 1rem 3.5rem;
+  background-color: var(--bg);
+  color: var(--fg);
+  font: 1.15rem/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  
+  /* Cú pháp hiện đại thay thế cho word-wrap */
+  overflow-wrap: break-word;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem 1.25rem;
+  font-size: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+nav a:hover, 
+nav a:focus-visible {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+nav .nav-brand {
+  color: var(--fg);
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  transform: translateY(-150%);
+  left: 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+
+.skip-link:focus {
+  transform: translateY(1rem);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--fg);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
+  font-size: 1rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+p, ul, ol, blockquote, table {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+a:has(img) {
+  text-decoration: none;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.page-header .page-subtitle {
+  color: var(--muted);
+  font-size: 1.15rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page-header img {
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  tab-size: 2;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+  border-radius: 0;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+
+th {
+  background-color: var(--th-bg);
+  font-weight: 600;
+}
+
+blockquote {
+  margin-inline: 0;
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  body {
+    max-width: none;
+    color: #000;
+    background: #fff;
+  }
+  .skip-link, nav {
+    display: none;
+  }
+}
+  </style>
 </head>
-
 <body>
 
-<nav>
-<a href="/">Hocbigg</a>
-<a href="/english-studies/">English-Studies</a>
-<a href="/english-studies/advanced_topics.html">Advanced Topics</a>
-<a href="/english-studies/projects.html">Projects</a>
-<a href="/english-studies/extras/courses.html">Extra Courses</a>
-<a href="/english-studies/extras/readings.html">Extra Reading</a>
-<a href="https://github.com/hocbigg/english-studies/" target="_blank">View on Github</a>
-</nav>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<main>
-<article>
+  <header class="site-header">
+    <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="https://hocbigg.github.io/" class="nav-brand">Hocbigg</a></li>
+      <li><a href="/english-studies/">English Studies</a></li>
+      <li><a href="/english-studies/advanced_topics.html">Advanced Topics</a></li>
+      <li><a href="/english-studies/projects.html">Projects</a></li>
+      <li><a href="/english-studies/extras/readings.html">Extra Readings</a></li>
+      <li><a href="/english-studies/extras/courses.html">Extra Courses</a></li>
+      <li><a href="https://github.com/hocbigg/english-studies" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+    </nav>
+  </header>
 
-<h1 id="advanced-topics">Advanced Topics</h1>
-<p><em>Choose one path; others optional.</em></p>
-<p>This section contains four different paths you can take <strong>after</strong> you have completed the Core:</p>
+  <main id="main-content">
+    <article>
+
+<h1 id="advanced-topics-in-english-studies">Advanced Topics in English Studies</h1>
+<p>This document provides advanced specialization tracks for learners who have completed the core undergraduate curriculum in English Studies. Rather than attempting to complete every track, choose one or two areas that align with your specific intellectual, critical, or creative goals.</p>
 <ul>
-<li>A. British Literature</li>
-<li>B. American Literature</li>
-<li>C. Creative Writing</li>
-<li>D. Linguistics &amp; Language Studies</li>
+<li><a href="#critical-theory-cultural-studies">Critical Theory &amp; Cultural Studies</a>: Interrogate power dynamics, subjectivity, ideological hegemony, and ecological crises using modern critical frameworks.</li>
+<li><a href="#period-specializations-anglophone-literatures">Period Specializations &amp; Anglophone Literatures</a>: Conduct deep historical, formal, and archival investigations of specific literary movements across Anglophone traditions.</li>
+<li><a href="#digital-humanities-book-history-textual-scholarship">Digital Humanities, Book History &amp; Textual Scholarship</a>: Bridge literary criticism with computational corpus analytics, TEI metadata encoding, and the material sociology of print.</li>
+<li><a href="#creative-writing-poetics-craft">Creative Writing, Poetics &amp; Craft</a>: Master advanced narrative architecture, accentual-syllabic prosody, personal non-fiction narrative, and dramaturgy.</li>
+<li><a href="#rhetoric-stylistics-applied-linguistics">Rhetoric, Stylistics &amp; Applied Linguistics</a>: Analyze how rhetorical devices, syntactic choices, and cognitive metaphors systematically construct textual meaning and ideology.</li>
 </ul>
-<p>You do <strong>not</strong> need to do all of them. Most people choose <strong>one</strong> track that interests them most (or occasionally two). The rest can be left for later — or skipped entirely — depending on your goals.</p>
-<ul>
-<li>Choose <strong>British Literature</strong> if you love classic novels, older poetry, Shakespeare, or the long tradition of writing from the British Isles.</li>
-<li>Choose <strong>American Literature</strong> if you are especially interested in U.S. history, identity, race, ethnicity, or modern/postwar American fiction and poetry.</li>
-<li>Choose <strong>Creative Writing</strong> if you want to start writing your own stories, poems, or novels and learn craft techniques.</li>
-<li>Choose <strong>Linguistics &amp; Language Studies</strong> if you are curious about how language itself works (sounds, grammar, meaning) or about digital/text-analysis approaches to literature.</li>
-</ul>
-<h3 id="a-british-literature">A. British Literature</h3>
-<table>
-<thead>
-<tr>
-<th>Course</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.futurelearn.com/courses/how-to-read-a-novel">How to Read a Novel</a></td>
-<td>Advanced narrative analysis.</td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.futurelearn.com/courses/jane-austen">Jane Austen: Myth, Reality and Global Celebrity</a></td>
-<td>Author-centered cultural study.</td>
-</tr>
-</tbody>
-</table>
-<h3 id="b-american-literature">B. American Literature</h3>
-<table>
-<thead>
-<tr>
-<th>Course</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://ocw.mit.edu/courses/21l-709-ethnic-literature-in-america-spring-2017/">Ethnic Literature in America</a></td>
-<td>Race, ethnicity, canon revision.</td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/learn/modern-american-poetry">Modern American Poetry</a> (audit)</td>
-<td>Lyric traditions and innovation.</td>
-</tr>
-</tbody>
-</table>
-<h3 id="c-creative-writing">C. Creative Writing</h3>
-<table>
-<thead>
-<tr>
-<th>Course</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.open.edu/openlearn/history-the-arts/creative-writing/start-writing-fiction/content-section-0">Start Writing Fiction</a></td>
-<td>Foundational practice.</td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/learn/craft-of-plot">Creative Writing: The Craft of Plot</a> (Wesleyan/Coursera, audit)</td>
-<td>Sequential.</td>
-</tr>
-<tr>
-<td>Creative Writing: Craft of Character</td>
-<td>Sequential.</td>
-</tr>
-<tr>
-<td>Creative Writing: Craft of Style</td>
-<td>Language and revision.</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Note</strong>: For Creative Writing: Craft of Character and Craft of Style, they are part of the same Wesleyan specialization on Coursera: <a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/specializations/creative-writing"><strong>Creative Writing Specialization</strong></a>.</p>
-<h3 id="d-linguistics-language-studies">D. Linguistics &amp; Language Studies</h3>
-<table>
-<thead>
-<tr>
-<th>Course</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-fall-2012/">Introduction to Linguistics</a> (MIT)</td>
-<td>Phonetics to syntax.</td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://pll.harvard.edu/course/digital-humanities-practice-research-questions-results">Digital Humanities in Practice</a></td>
-<td>Text analysis, corpus methods.</td>
-</tr>
-</tbody>
-</table>
-</article>
-</main>
+<h2 id="critical-theory-cultural-studies">Critical Theory &amp; Cultural Studies</h2>
+<p>This track examines literature through theoretical frameworks that deconstruct ideology, sovereign power, environmental exploitation, and cultural identity.</p>
+<p>Postcolonial &amp; Decolonial Theory: <a href="https://nptel.ac.in/courses/109104116" target="_blank" rel="noopener noreferrer">Postcolonial Literature (NPTEL / IIT Kanpur — Dr. Sayan Chattopadhyay)</a> - A comprehensive open course analyzing colonial discourse, anti-colonial resistance, nationalism, and hybridity through foundational theorists and global Anglophone writers.</p>
+<p>Feminist, Queer &amp; Gender Studies: <a href="https://books.google.com/books?isbn=9780415389556" target="_blank" rel="noopener noreferrer">Gender Trouble: Feminism and the Subversion of Identity (Judith Butler)</a> - The defining monograph of queer theory that establishes the performativity of gender and deconstructs heteronormative binaries in literary representation.</p>
+<p>Critical Race Theory &amp; African American Aesthetics: <a href="https://ocw.mit.edu/courses/21l-709-ethnic-literature-in-america-spring-2017/" target="_blank" rel="noopener noreferrer">Ethnic Literature in America (MIT OpenCourseWare — Dr. Wyn Kelley)</a> - An advanced seminar syllabus investigating how racialized canons, migration narratives, and vernacular traditions challenge dominant American literary historiography.</p>
+<p>Ecocriticism &amp; Environmental Humanities: <a href="https://books.google.com/books?isbn=9780674072343" target="_blank" rel="noopener noreferrer">Slow Violence and the Environmentalism of the Poor (Rob Nixon)</a> - The benchmark text for environmental literary criticism, analyzing how writers represent gradual, out-of-sight ecological degradation and extractive capitalism across the Global South.</p>
+<p>Biopolitics &amp; Discourse Analysis: <a href="https://books.google.com/books?isbn=9780679724698" target="_blank" rel="noopener noreferrer">The History of Sexuality, Volume 1: An Introduction (Michel Foucault)</a> - The foundational philosophical text that articulates biopower, discursive regimes, and the institutional management of bodies, vital for analyzing modern literary subjects.</p>
+<h2 id="period-specializations-anglophone-literatures">Period Specializations &amp; Anglophone Literatures</h2>
+<p>This track provides deep, semester-length examinations of specific literary epochs, aesthetic innovations, and historical crises in British and American literature.</p>
+<p>Early Modern Literature &amp; Renaissance Drama: <a href="https://oyc.yale.edu/english/engl-220" target="_blank" rel="noopener noreferrer">Milton (Open Yale Courses — Prof. John Rogers)</a> - A complete 24-lecture seminar examining John Milton's major poetry and prose against the backdrop of the English Civil War, revolutionary theology, and early modern poetics.</p>
+<p>The Long Eighteenth Century &amp; The Novel: <a href="https://books.google.com/books?isbn=9780520230699" target="_blank" rel="noopener noreferrer">The Rise of the Novel: Studies in Defoe, Richardson and Fielding (Ian Watt)</a> - The canonical formal and sociological study demonstrating how philosophical realism, middle-class individualism, and commercial print culture generated the novel genre.</p>
+<p>Victorian Literature &amp; Industrial Modernity: <a href="https://books.google.com/books?isbn=9780415144254" target="_blank" rel="noopener noreferrer">Victorian Poetry: Poetry, Poetics and Politics (Isobel Armstrong)</a> - An authoritative study that reinterprets Victorian verse as a sophisticated, politically radical response to industrialization, expressive theory, and scientific doubt.</p>
+<p>Modernist Poetry &amp; The Avant-Garde: <a href="https://oyc.yale.edu/english/engl-310" target="_blank" rel="noopener noreferrer">Modern Poetry (Open Yale Courses — Prof. Langdon Hammer)</a> - A 25-lecture course examining high modernist formal experimentation, linguistic fragmentation, and lyric craft in Yeats, Eliot, Pound, Stevens, and Bishop.</p>
+<p>Postwar &amp; Contemporary Anglophone Fiction: <a href="https://oyc.yale.edu/english/engl-291" target="_blank" rel="noopener noreferrer">The American Novel Since 1945 (Open Yale Courses — Prof. Amy Hungerford)</a> - A full lecture series exploring narrative formal innovations, publishing shifts, metafiction, and cultural memory across major post-WWII American novelists.</p>
+<h2 id="digital-humanities-book-history-textual-scholarship">Digital Humanities, Book History &amp; Textual Scholarship</h2>
+<p>This track unites computational text analysis, international digital markup standards, and the material history of the physical book.</p>
+<p>Computational Literary Analysis: <a href="https://programminghistorian.org/" target="_blank" rel="noopener noreferrer">The Programming Historian (ProgHist Ltd)</a> - An open-access, peer-reviewed collection of tutorials teaching humanists practical Python workflows for corpus analysis, topic modeling, web scraping, and text parsing.</p>
+<p>Text Encoding &amp; Markup: <a href="https://teibyexample.org/" target="_blank" rel="noopener noreferrer">TEI by Example (Centre for Data, Culture &amp; Society / KANTL)</a> - An interactive online tutorial that trains scholars in XML and Text Encoding Initiative (TEI P5) guidelines for transcribing and digitally editing primary texts.</p>
+<p>Digital Philology &amp; Scholarly Editing: <a href="https://www.openbookpublishers.com/books/10.11647/obp.0095" target="_blank" rel="noopener noreferrer">Digital Scholarly Editing: Theories and Practices (Matthew James Driscoll &amp; Elena Pierazzo, eds.)</a> - A peer-reviewed, open-access volume covering the theoretical foundations, editorial models, and technical architectures underpinning digital scholarly editions.</p>
+<p>History of the Book &amp; Material Bibliography: <a href="https://books.google.com/books?isbn=9780521644952" target="_blank" rel="noopener noreferrer">Bibliography and the Sociology of Texts (D. F. McKenzie)</a> - The foundational monograph arguing that typography, layout, print technologies, and physical transmission actively shape and redefine textual meaning.</p>
+<h2 id="creative-writing-poetics-craft">Creative Writing, Poetics &amp; Craft</h2>
+<p>This track deconstructs the architectural, prosodic, and dramatic mechanics of literary creation from the perspective of the practicing writer.</p>
+<p>Fiction Craft &amp; Narrative Architecture: <a href="https://books.google.com/books?isbn=9780312428471" target="_blank" rel="noopener noreferrer">How Fiction Works (James Wood)</a> - A masterclass in prose analysis detailing how free indirect style, psychic distance, selected detail, and character development function mechanically on the page.</p>
+<p>Advanced Prosody &amp; Meter: <a href="https://books.google.com/books?isbn=9780075536062" target="_blank" rel="noopener noreferrer">Poetic Meter and Poetic Form (Paul Fussell)</a> - The standard university textbook on accentual-syllabic scansion, metrical substitution, caesurae, and the historical mechanics of traditional verse forms.</p>
+<p>Advanced Prosody &amp; Meter: <a href="https://www.coursera.org/learn/modpo" target="_blank" rel="noopener noreferrer">Modern &amp; Contemporary American Poetry — ModPo (University of Pennsylvania / Coursera)</a> - A free-to-audit, collaborative course that teaches experimental close reading, open verse forms, and radical stylistic innovations in 20th- and 21st-century poetry.</p>
+<p>Creative Nonfiction &amp; The Personal Essay: <a href="https://books.google.com/books?isbn=9780374528584" target="_blank" rel="noopener noreferrer">The Situation and the Story: The Art of Personal Narrative (Vivian Gornick)</a> - A craft study examining the crucial distinction between the raw biographical facts of an experience (the situation) and the narrator's emotional and philosophical insight (the story).</p>
+<p>Dramatic Writing &amp; Dramaturgy: <a href="https://books.google.com/books?isbn=9780671213329" target="_blank" rel="noopener noreferrer">The Art of Dramatic Writing (Lajos Egri)</a> - A classic dramaturgy text that teaches premise construction, three-dimensional characterization, and the dialectical escalation of dramatic conflict.</p>
+<h2 id="rhetoric-stylistics-applied-linguistics">Rhetoric, Stylistics &amp; Applied Linguistics</h2>
+<p>This track applies formal linguistic methodologies, cognitive frameworks, and rhetorical traditions to analyze the mechanics of persuasion and aesthetic form.</p>
+<p>Classical &amp; Civic Rhetoric: <a href="https://pll.harvard.edu/course/rhetoric-art-persuasive-writing-and-public-speaking" target="_blank" rel="noopener noreferrer">Rhetoric: The Art of Persuasive Writing and Public Speaking (Harvard University / edX)</a> - A structured course introducing Aristotelian proofs (ethos, pathos, logos), rhetorical tropes, schemes, and argumentative architecture in public discourse.</p>
+<p>Linguistic Stylistics: <a href="https://www.lancaster.ac.uk/fass/projects/stylistics/" target="_blank" rel="noopener noreferrer">Ling 131: Language and Style (Lancaster University — Prof. Mick Short)</a> - An open-access web course that equips learners with an empirical linguistic toolkit to analyze foregrounding, grammatical deviation, sound patterning, and speech presentation in literature.</p>
+<p>Cognitive Poetics &amp; Metaphor: <a href="https://books.google.com/books?isbn=9780226468129" target="_blank" rel="noopener noreferrer">More than Cool Reason: A Field Guide to Poetic Metaphor (George Lakoff &amp; Mark Turner)</a> - A study applying cognitive linguistics and conceptual blending theory to show how poetic imagery builds upon everyday conceptual metaphors in the human mind.</p>
+<p>Critical Discourse Analysis (CDA): <a href="https://books.google.com/books?isbn=9781408225769" target="_blank" rel="noopener noreferrer">Critical Discourse Analysis: The Critical Study of Language (Norman Fairclough)</a> - The seminal text establishing how syntax, grammar, and institutional discourse encode, maintain, and reproduce power asymmetries and social dominance.</p>
+    </article>
+  </main>
 
 </body>
 </html>
